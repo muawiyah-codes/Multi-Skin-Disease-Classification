@@ -1,0 +1,1485 @@
+filename,class,filepath,width,height,aspect_ratio,channels,split
+aug_0_6565.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6565.jpg,294,222,1.324,RGB,test
+aug_0_1255.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1255.jpg,750,589,1.273,RGB,test
+aug_0_3025.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3025.jpg,1024,681,1.504,RGB,test
+aug_0_9187.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9187.jpg,294,222,1.324,RGB,test
+aug_0_485.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_485.jpg,600,450,1.333,RGB,test
+aug_0_330.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_330.jpg,294,222,1.324,RGB,test
+aug_0_9291.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9291.jpg,600,450,1.333,RGB,test
+aug_0_8575.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8575.jpg,1024,768,1.333,RGB,test
+aug_0_5847.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5847.jpg,600,450,1.333,RGB,test
+aug_0_9181.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9181.jpg,600,450,1.333,RGB,test
+aug_0_787.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_787.jpg,600,450,1.333,RGB,test
+aug_0_6730.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6730.jpg,294,222,1.324,RGB,test
+aug_0_1083.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1083.jpg,600,450,1.333,RGB,test
+aug_0_4839.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4839.jpg,600,450,1.333,RGB,test
+aug_0_7502.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7502.jpg,600,450,1.333,RGB,test
+aug_0_8019.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8019.jpg,600,450,1.333,RGB,test
+aug_0_3890.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3890.jpg,600,450,1.333,RGB,test
+aug_0_4291.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4291.jpg,294,222,1.324,RGB,test
+aug_0_4791.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4791.jpg,300,290,1.034,RGB,test
+aug_0_913.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_913.jpg,600,450,1.333,RGB,test
+aug_0_2699.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2699.jpg,1024,764,1.34,RGB,test
+aug_0_5760.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5760.jpg,1024,768,1.333,RGB,test
+aug_0_2229.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2229.jpg,600,450,1.333,RGB,test
+aug_0_9746.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9746.jpg,294,222,1.324,RGB,test
+aug_0_4980.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4980.jpg,1024,764,1.34,RGB,test
+aug_0_5692.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5692.jpg,600,450,1.333,RGB,test
+aug_0_5747.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5747.jpg,189,244,0.775,RGB,test
+aug_0_8825.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8825.jpg,294,222,1.324,RGB,test
+aug_0_5103.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5103.jpg,600,450,1.333,RGB,test
+aug_0_2479.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2479.jpg,857,1024,0.837,RGB,test
+aug_0_1875.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1875.jpg,767,576,1.332,RGB,test
+aug_0_4305.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4305.jpg,1024,764,1.34,RGB,test
+aug_0_4830.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4830.jpg,600,450,1.333,RGB,test
+aug_0_8943.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8943.jpg,1024,768,1.333,RGB,test
+aug_0_9087.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9087.jpg,600,450,1.333,RGB,test
+aug_0_7178.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7178.jpg,294,222,1.324,RGB,test
+aug_0_4303.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4303.jpg,1024,768,1.333,RGB,test
+aug_0_7108.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7108.jpg,919,802,1.146,RGB,test
+aug_0_8976.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8976.jpg,600,450,1.333,RGB,test
+aug_0_2004.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2004.jpg,1024,768,1.333,RGB,test
+aug_0_2176.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2176.jpg,1024,764,1.34,RGB,test
+aug_0_4692.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4692.jpg,600,450,1.333,RGB,test
+aug_0_3899.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3899.jpg,294,222,1.324,RGB,test
+aug_0_673.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_673.jpg,1024,768,1.333,RGB,test
+aug_0_6259.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6259.jpg,1024,768,1.333,RGB,test
+aug_0_9020.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9020.jpg,600,450,1.333,RGB,test
+aug_0_5353.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5353.jpg,600,450,1.333,RGB,test
+aug_0_563.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_563.jpg,600,450,1.333,RGB,test
+aug_0_6495.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6495.jpg,294,222,1.324,RGB,test
+aug_0_3756.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3756.jpg,600,450,1.333,RGB,test
+aug_0_1811.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1811.jpg,294,222,1.324,RGB,test
+aug_0_1222.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1222.jpg,600,450,1.333,RGB,test
+aug_0_1327.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1327.jpg,294,222,1.324,RGB,test
+aug_0_2600.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2600.jpg,600,450,1.333,RGB,test
+aug_0_2775.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2775.jpg,294,222,1.324,RGB,test
+aug_0_4075.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4075.jpg,490,527,0.93,RGB,test
+aug_0_1234.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1234.jpg,294,222,1.324,RGB,test
+aug_0_4086.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4086.jpg,1024,764,1.34,RGB,test
+aug_0_1050.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1050.jpg,767,576,1.332,RGB,test
+aug_0_7956.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7956.jpg,600,450,1.333,RGB,test
+aug_0_5087.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5087.jpg,600,450,1.333,RGB,test
+aug_0_623.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_623.jpg,600,450,1.333,RGB,test
+aug_0_8065.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8065.jpg,600,450,1.333,RGB,test
+aug_0_2502.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2502.jpg,600,450,1.333,RGB,test
+aug_0_2041.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2041.jpg,600,450,1.333,RGB,test
+aug_0_2071.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2071.jpg,600,450,1.333,RGB,test
+aug_0_120.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_120.jpg,294,222,1.324,RGB,test
+aug_0_9078.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9078.jpg,600,450,1.333,RGB,test
+aug_0_269.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_269.jpg,963,629,1.531,RGB,test
+aug_0_3339.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3339.jpg,600,450,1.333,RGB,test
+aug_0_6882.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6882.jpg,521,445,1.171,RGB,test
+aug_0_815.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_815.jpg,287,357,0.804,RGB,test
+aug_0_140.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_140.jpg,600,450,1.333,RGB,test
+aug_0_4056.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4056.jpg,600,450,1.333,RGB,test
+aug_0_4055.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4055.jpg,722,540,1.337,RGB,test
+aug_0_3627.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3627.jpg,600,450,1.333,RGB,test
+aug_0_8275.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8275.jpg,1024,768,1.333,RGB,test
+aug_0_8568.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8568.jpg,600,450,1.333,RGB,test
+aug_0_6432.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6432.jpg,600,450,1.333,RGB,test
+aug_0_6945.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6945.jpg,600,450,1.333,RGB,test
+aug_0_9313.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9313.jpg,1024,764,1.34,RGB,test
+aug_0_5011.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5011.jpg,294,222,1.324,RGB,test
+aug_0_8409.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8409.jpg,1024,768,1.333,RGB,test
+aug_0_5239.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5239.jpg,1022,767,1.332,RGB,test
+aug_0_9241.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9241.jpg,600,450,1.333,RGB,test
+aug_0_5581.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5581.jpg,1024,768,1.333,RGB,test
+aug_0_1333.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1333.jpg,600,450,1.333,RGB,test
+aug_0_6469.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6469.jpg,1024,768,1.333,RGB,test
+aug_0_3274.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3274.jpg,1024,768,1.333,RGB,test
+aug_0_5319.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5319.jpg,1024,768,1.333,RGB,test
+aug_0_4661.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4661.jpg,600,450,1.333,RGB,test
+aug_0_593.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_593.jpg,600,450,1.333,RGB,test
+aug_0_7120.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7120.jpg,422,428,0.986,RGB,test
+aug_0_9962.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9962.jpg,1024,686,1.493,RGB,test
+aug_0_5078.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5078.jpg,294,222,1.324,RGB,test
+aug_0_1898.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1898.jpg,600,450,1.333,RGB,test
+aug_0_478.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_478.jpg,600,450,1.333,RGB,test
+aug_0_5018.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5018.jpg,600,450,1.333,RGB,test
+aug_0_4890.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4890.jpg,1024,764,1.34,RGB,test
+aug_0_8531.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8531.jpg,600,450,1.333,RGB,test
+aug_0_7866.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7866.jpg,600,450,1.333,RGB,test
+aug_0_8748.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8748.jpg,600,450,1.333,RGB,test
+aug_0_2874.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2874.jpg,567,386,1.469,RGB,test
+aug_0_5619.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5619.jpg,294,222,1.324,RGB,test
+aug_0_8494.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8494.jpg,294,222,1.324,RGB,test
+aug_0_8885.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8885.jpg,600,450,1.333,RGB,test
+aug_0_1497.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1497.jpg,1024,768,1.333,RGB,test
+aug_0_2441.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2441.jpg,294,222,1.324,RGB,test
+aug_0_7775.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7775.jpg,600,450,1.333,RGB,test
+aug_0_9918.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9918.jpg,590,350,1.686,RGB,test
+aug_0_6174.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6174.jpg,1024,764,1.34,RGB,test
+aug_0_5214.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5214.jpg,320,217,1.475,RGB,test
+aug_0_4912.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4912.jpg,1024,768,1.333,RGB,test
+aug_0_7675.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7675.jpg,600,450,1.333,RGB,test
+aug_0_9069.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9069.jpg,1024,764,1.34,RGB,test
+aug_0_4789.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4789.jpg,600,450,1.333,RGB,test
+aug_0_8971.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8971.jpg,1024,764,1.34,RGB,test
+aug_0_9685.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9685.jpg,600,450,1.333,RGB,test
+aug_0_5780.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5780.jpg,600,450,1.333,RGB,test
+aug_0_48.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_48.jpg,1024,878,1.166,RGB,test
+aug_0_531.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_531.jpg,1024,768,1.333,RGB,test
+aug_0_8479.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8479.jpg,600,450,1.333,RGB,test
+aug_0_5248.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5248.jpg,1024,764,1.34,RGB,test
+aug_0_4943.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4943.jpg,600,450,1.333,RGB,test
+aug_0_4649.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4649.jpg,600,450,1.333,RGB,test
+aug_0_2746.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2746.jpg,600,450,1.333,RGB,test
+aug_0_8107.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8107.jpg,1024,764,1.34,RGB,test
+aug_0_4186.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4186.jpg,964,720,1.339,RGB,test
+aug_0_4267.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4267.jpg,1024,680,1.506,RGB,test
+aug_0_5412.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5412.jpg,1024,764,1.34,RGB,test
+aug_0_1100.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1100.jpg,416,458,0.908,RGB,test
+aug_0_1444.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1444.jpg,600,450,1.333,RGB,test
+aug_0_5535.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5535.jpg,600,450,1.333,RGB,test
+aug_0_5475.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5475.jpg,1024,764,1.34,RGB,test
+aug_0_1169.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1169.jpg,600,450,1.333,RGB,test
+aug_0_8606.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8606.jpg,1022,767,1.332,RGB,test
+aug_0_9396.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9396.jpg,294,222,1.324,RGB,test
+aug_0_7348.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7348.jpg,1024,764,1.34,RGB,test
+aug_0_2370.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2370.jpg,600,450,1.333,RGB,test
+aug_0_8510.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8510.jpg,294,222,1.324,RGB,test
+aug_0_1444.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1444.jpg,600,450,1.333,RGB,test
+aug_0_8492.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8492.jpg,600,450,1.333,RGB,test
+aug_0_2716.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2716.jpg,1024,768,1.333,RGB,test
+aug_0_883.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_883.jpg,600,450,1.333,RGB,test
+aug_0_6288.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6288.jpg,1008,756,1.333,RGB,test
+aug_0_1389.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1389.jpg,600,450,1.333,RGB,test
+aug_0_1633.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1633.jpg,600,450,1.333,RGB,test
+aug_0_8748.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8748.jpg,600,450,1.333,RGB,test
+aug_0_4246.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4246.jpg,600,450,1.333,RGB,test
+aug_0_9799.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9799.jpg,722,542,1.332,RGB,test
+aug_0_3907.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3907.jpg,1024,768,1.333,RGB,test
+aug_0_300.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_300.jpg,604,434,1.392,RGB,test
+aug_0_356.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_356.jpg,600,450,1.333,RGB,test
+aug_0_9708.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9708.jpg,1024,768,1.333,RGB,test
+aug_0_6151.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6151.jpg,600,450,1.333,RGB,test
+aug_0_9722.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9722.jpg,600,450,1.333,RGB,test
+aug_0_1279.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1279.jpg,294,222,1.324,RGB,test
+aug_0_9202.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9202.jpg,600,450,1.333,RGB,test
+aug_0_520.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_520.jpg,600,450,1.333,RGB,test
+aug_0_8297.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8297.jpg,740,630,1.175,RGB,test
+aug_0_1632.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1632.jpg,600,450,1.333,RGB,test
+aug_0_503.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_503.jpg,1024,768,1.333,RGB,test
+aug_0_7851.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7851.jpg,294,222,1.324,RGB,test
+aug_0_6422.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6422.jpg,600,450,1.333,RGB,test
+aug_0_6404.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6404.jpg,600,450,1.333,RGB,test
+aug_0_3180.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3180.jpg,600,450,1.333,RGB,test
+aug_0_5910.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5910.jpg,1024,768,1.333,RGB,test
+aug_0_5886.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5886.jpg,1024,768,1.333,RGB,test
+aug_0_3432.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3432.jpg,1024,768,1.333,RGB,test
+aug_0_3310.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3310.jpg,1024,764,1.34,RGB,test
+aug_0_8132.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8132.jpg,600,450,1.333,RGB,test
+aug_0_5328.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5328.jpg,1024,768,1.333,RGB,test
+aug_0_488.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_488.jpg,600,450,1.333,RGB,test
+aug_0_6236.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6236.jpg,600,450,1.333,RGB,test
+aug_0_9912.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9912.jpg,965,624,1.546,RGB,test
+aug_0_8695.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8695.jpg,1024,768,1.333,RGB,test
+aug_0_2784.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2784.jpg,600,450,1.333,RGB,test
+aug_0_299.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_299.jpg,600,450,1.333,RGB,test
+aug_0_989.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_989.jpg,600,450,1.333,RGB,test
+aug_0_9264.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9264.jpg,1024,764,1.34,RGB,test
+aug_0_5981.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5981.jpg,600,450,1.333,RGB,test
+aug_0_4433.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4433.jpg,600,450,1.333,RGB,test
+aug_0_8152.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8152.jpg,1024,768,1.333,RGB,test
+aug_0_9745.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9745.jpg,294,222,1.324,RGB,test
+aug_0_8302.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8302.jpg,294,222,1.324,RGB,test
+aug_0_315.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_315.jpg,1024,764,1.34,RGB,test
+aug_0_9060.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9060.jpg,1024,768,1.333,RGB,test
+aug_0_9358.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9358.jpg,919,802,1.146,RGB,test
+aug_0_328.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_328.jpg,600,450,1.333,RGB,test
+aug_0_4204.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4204.jpg,1024,764,1.34,RGB,test
+aug_0_8793.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8793.jpg,600,450,1.333,RGB,test
+aug_0_7756.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7756.jpg,600,450,1.333,RGB,test
+aug_0_3063.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3063.jpg,600,450,1.333,RGB,test
+aug_0_4804.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4804.jpg,600,450,1.333,RGB,test
+aug_0_727.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_727.jpg,600,450,1.333,RGB,test
+aug_0_1851.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1851.jpg,767,576,1.332,RGB,test
+aug_0_8785.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8785.jpg,600,450,1.333,RGB,test
+aug_0_4991.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4991.jpg,294,222,1.324,RGB,test
+aug_0_2959.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2959.jpg,600,450,1.333,RGB,test
+aug_0_5644.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5644.jpg,294,222,1.324,RGB,test
+aug_0_4994.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4994.jpg,600,450,1.333,RGB,test
+aug_0_3011.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3011.jpg,600,450,1.333,RGB,test
+aug_0_5958.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5958.jpg,600,450,1.333,RGB,test
+aug_0_6374.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6374.jpg,294,222,1.324,RGB,test
+aug_0_6965.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6965.jpg,600,450,1.333,RGB,test
+aug_0_5255.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5255.jpg,600,450,1.333,RGB,test
+aug_0_6502.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6502.jpg,600,450,1.333,RGB,test
+aug_0_3449.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3449.jpg,600,450,1.333,RGB,test
+aug_0_8678.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8678.jpg,1024,681,1.504,RGB,test
+aug_0_5907.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5907.jpg,600,450,1.333,RGB,test
+aug_0_7948.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7948.jpg,600,450,1.333,RGB,test
+aug_0_1789.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1789.jpg,642,468,1.372,RGB,test
+aug_0_215.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_215.jpg,600,450,1.333,RGB,test
+aug_0_7027.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7027.jpg,600,450,1.333,RGB,test
+aug_0_7587.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7587.jpg,600,450,1.333,RGB,test
+aug_0_5243.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5243.jpg,1024,768,1.333,RGB,test
+aug_0_5745.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5745.jpg,600,450,1.333,RGB,test
+aug_0_5130.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5130.jpg,294,222,1.324,RGB,test
+aug_0_6622.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6622.jpg,741,494,1.5,RGB,test
+aug_0_7324.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7324.jpg,1024,768,1.333,RGB,test
+aug_0_9347.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9347.jpg,1024,768,1.333,RGB,test
+aug_0_790.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_790.jpg,600,450,1.333,RGB,test
+aug_0_477.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_477.jpg,358,434,0.825,RGB,test
+aug_0_5373.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5373.jpg,600,450,1.333,RGB,test
+aug_0_4070.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4070.jpg,600,450,1.333,RGB,test
+aug_0_5870.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5870.jpg,1024,768,1.333,RGB,test
+aug_0_3016.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3016.jpg,600,450,1.333,RGB,test
+aug_0_2653.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2653.jpg,600,450,1.333,RGB,test
+aug_0_2870.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2870.jpg,600,450,1.333,RGB,test
+aug_0_2290.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2290.jpg,600,450,1.333,RGB,test
+aug_0_8898.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8898.jpg,960,724,1.326,RGB,test
+aug_0_4737.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4737.jpg,1024,768,1.333,RGB,test
+aug_0_9400.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9400.jpg,294,222,1.324,RGB,test
+aug_0_1919.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1919.jpg,320,217,1.475,RGB,test
+aug_0_9971.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9971.jpg,600,450,1.333,RGB,test
+aug_0_6456.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6456.jpg,1024,768,1.333,RGB,test
+aug_0_3203.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3203.jpg,600,450,1.333,RGB,test
+aug_0_3417.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3417.jpg,300,300,1.0,RGB,test
+aug_0_9221.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9221.jpg,600,450,1.333,RGB,test
+aug_0_1183.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1183.jpg,600,450,1.333,RGB,test
+aug_0_9773.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9773.jpg,600,450,1.333,RGB,test
+aug_0_6410.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6410.jpg,294,222,1.324,RGB,test
+aug_0_4610.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4610.jpg,600,450,1.333,RGB,test
+aug_0_8197.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8197.jpg,600,450,1.333,RGB,test
+aug_0_3908.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3908.jpg,1024,768,1.333,RGB,test
+aug_0_549.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_549.jpg,600,450,1.333,RGB,test
+aug_0_718.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_718.jpg,600,450,1.333,RGB,test
+aug_0_2260.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2260.jpg,600,450,1.333,RGB,test
+aug_0_4878.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4878.jpg,600,450,1.333,RGB,test
+aug_0_1580.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1580.jpg,600,450,1.333,RGB,test
+aug_0_3992.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3992.jpg,600,450,1.333,RGB,test
+aug_0_2925.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2925.jpg,600,450,1.333,RGB,test
+aug_0_4758.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4758.jpg,364,261,1.395,RGB,test
+aug_0_7874.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7874.jpg,600,450,1.333,RGB,test
+aug_0_9196.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9196.jpg,965,649,1.487,RGB,test
+aug_0_1296.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1296.jpg,294,222,1.324,RGB,test
+aug_0_1205.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1205.jpg,883,808,1.093,RGB,test
+aug_0_2311.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2311.jpg,1024,764,1.34,RGB,test
+aug_0_9392.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9392.jpg,1024,768,1.333,RGB,test
+aug_0_276.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_276.jpg,1024,878,1.166,RGB,test
+aug_0_2137.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2137.jpg,294,222,1.324,RGB,test
+aug_0_4611.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4611.jpg,600,450,1.333,RGB,test
+aug_0_8046.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8046.jpg,600,450,1.333,RGB,test
+aug_0_8060.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8060.jpg,1026,770,1.332,RGB,test
+aug_0_6257.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6257.jpg,767,576,1.332,RGB,test
+aug_0_5857.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5857.jpg,294,222,1.324,RGB,test
+aug_0_1847.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1847.jpg,294,222,1.324,RGB,test
+aug_0_541.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_541.jpg,1024,768,1.333,RGB,test
+aug_0_4888.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4888.jpg,294,222,1.324,RGB,test
+aug_0_8876.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8876.jpg,294,222,1.324,RGB,test
+aug_0_7156.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7156.jpg,600,450,1.333,RGB,test
+aug_0_3500.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3500.jpg,600,450,1.333,RGB,test
+aug_0_2241.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2241.jpg,294,222,1.324,RGB,test
+aug_0_8863.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8863.jpg,600,450,1.333,RGB,test
+aug_0_6878.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6878.jpg,1024,764,1.34,RGB,test
+aug_0_6366.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6366.jpg,600,450,1.333,RGB,test
+aug_0_6472.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6472.jpg,600,450,1.333,RGB,test
+aug_0_5117.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5117.jpg,294,222,1.324,RGB,test
+aug_0_158.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_158.jpg,1024,764,1.34,RGB,test
+aug_0_9169.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9169.jpg,600,450,1.333,RGB,test
+aug_0_9945.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9945.jpg,600,450,1.333,RGB,test
+aug_0_5918.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5918.jpg,1024,764,1.34,RGB,test
+aug_0_4258.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4258.jpg,1024,764,1.34,RGB,test
+aug_0_604.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_604.jpg,600,450,1.333,RGB,test
+aug_0_614.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_614.jpg,294,222,1.324,RGB,test
+aug_0_9945.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9945.jpg,600,450,1.333,RGB,test
+aug_0_6422.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6422.jpg,1022,767,1.332,RGB,test
+aug_0_5129.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5129.jpg,1024,764,1.34,RGB,test
+aug_0_4149.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4149.jpg,600,450,1.333,RGB,test
+aug_0_9753.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9753.jpg,600,450,1.333,RGB,test
+aug_0_7274.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7274.jpg,600,450,1.333,RGB,test
+aug_0_7146.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7146.jpg,1024,768,1.333,RGB,test
+aug_0_6004.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6004.jpg,600,450,1.333,RGB,test
+aug_0_872.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_872.jpg,1024,768,1.333,RGB,test
+aug_0_274.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_274.jpg,600,450,1.333,RGB,test
+aug_0_2047.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2047.jpg,1024,764,1.34,RGB,test
+aug_0_5214.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5214.jpg,600,450,1.333,RGB,test
+aug_0_7837.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7837.jpg,521,445,1.171,RGB,test
+aug_0_4201.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4201.jpg,600,450,1.333,RGB,test
+aug_0_2626.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2626.jpg,1024,682,1.501,RGB,test
+aug_0_9089.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9089.jpg,600,450,1.333,RGB,test
+aug_0_138.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_138.jpg,600,450,1.333,RGB,test
+aug_0_3075.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3075.jpg,600,450,1.333,RGB,test
+aug_0_3961.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3961.jpg,600,450,1.333,RGB,test
+aug_0_5593.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5593.jpg,600,450,1.333,RGB,test
+aug_0_6971.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6971.jpg,600,450,1.333,RGB,test
+aug_0_9661.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9661.jpg,600,450,1.333,RGB,test
+aug_0_3274.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3274.jpg,600,450,1.333,RGB,test
+aug_0_163.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_163.jpg,1024,768,1.333,RGB,test
+aug_0_7956.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7956.jpg,1026,770,1.332,RGB,test
+aug_0_3079.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3079.jpg,600,450,1.333,RGB,test
+aug_0_9925.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9925.jpg,600,450,1.333,RGB,test
+aug_0_621.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_621.jpg,1024,680,1.506,RGB,test
+aug_0_5226.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5226.jpg,294,222,1.324,RGB,test
+aug_0_9373.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9373.jpg,600,450,1.333,RGB,test
+aug_0_7561.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7561.jpg,1024,680,1.506,RGB,test
+aug_0_9353.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9353.jpg,1024,764,1.34,RGB,test
+aug_0_7219.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7219.jpg,1024,681,1.504,RGB,test
+aug_0_4803.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4803.jpg,600,450,1.333,RGB,test
+aug_0_8010.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8010.jpg,600,450,1.333,RGB,test
+aug_0_3012.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3012.jpg,600,450,1.333,RGB,test
+aug_0_8867.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8867.jpg,600,450,1.333,RGB,test
+aug_0_1037.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1037.jpg,1024,764,1.34,RGB,test
+aug_0_4491.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4491.jpg,1024,768,1.333,RGB,test
+aug_0_3140.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3140.jpg,962,674,1.427,RGB,test
+aug_0_867.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_867.jpg,600,450,1.333,RGB,test
+aug_0_6429.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6429.jpg,1024,768,1.333,RGB,test
+aug_0_7483.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7483.jpg,1024,768,1.333,RGB,test
+aug_0_6847.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6847.jpg,1024,682,1.501,RGB,test
+aug_0_1980.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1980.jpg,600,450,1.333,RGB,test
+aug_0_8888.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8888.jpg,919,802,1.146,RGB,test
+aug_0_7739.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7739.jpg,600,450,1.333,RGB,test
+aug_0_47.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_47.jpg,1024,764,1.34,RGB,test
+aug_0_8700.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8700.jpg,1024,768,1.333,RGB,test
+aug_0_4910.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4910.jpg,600,450,1.333,RGB,test
+aug_0_5251.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5251.jpg,294,222,1.324,RGB,test
+aug_0_7554.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7554.jpg,919,802,1.146,RGB,test
+aug_0_6832.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6832.jpg,1024,671,1.526,RGB,test
+aug_0_1815.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1815.jpg,600,450,1.333,RGB,test
+aug_0_1121.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1121.jpg,600,450,1.333,RGB,test
+aug_0_5075.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5075.jpg,1022,767,1.332,RGB,test
+aug_0_5447.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5447.jpg,1024,768,1.333,RGB,test
+aug_0_1105.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1105.jpg,600,450,1.333,RGB,test
+aug_0_3902.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3902.jpg,600,450,1.333,RGB,test
+aug_0_387.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_387.jpg,1024,680,1.506,RGB,test
+aug_0_3581.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3581.jpg,962,722,1.332,RGB,test
+aug_0_9766.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9766.jpg,600,450,1.333,RGB,test
+aug_0_1903.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1903.jpg,1024,768,1.333,RGB,test
+aug_0_4872.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4872.jpg,1022,767,1.332,RGB,test
+aug_0_9170.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9170.jpg,294,222,1.324,RGB,test
+aug_0_7137.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7137.jpg,1022,767,1.332,RGB,test
+aug_0_9756.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9756.jpg,294,222,1.324,RGB,test
+aug_0_4938.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4938.jpg,294,222,1.324,RGB,test
+aug_0_8315.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8315.jpg,1022,767,1.332,RGB,test
+aug_0_1171.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1171.jpg,600,450,1.333,RGB,test
+aug_0_3426.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3426.jpg,1024,764,1.34,RGB,test
+aug_0_3667.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3667.jpg,600,450,1.333,RGB,test
+aug_0_7416.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7416.jpg,600,450,1.333,RGB,test
+aug_0_9047.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9047.jpg,364,261,1.395,RGB,test
+aug_0_5891.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5891.jpg,961,649,1.481,RGB,test
+aug_0_6215.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6215.jpg,600,450,1.333,RGB,test
+aug_0_6059.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6059.jpg,234,271,0.863,RGB,test
+aug_0_917.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_917.jpg,1024,764,1.34,RGB,test
+aug_0_5221.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5221.jpg,600,450,1.333,RGB,test
+aug_0_8710.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8710.jpg,1024,768,1.333,RGB,test
+aug_0_4493.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4493.jpg,1024,681,1.504,RGB,test
+aug_0_3724.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3724.jpg,600,450,1.333,RGB,test
+aug_0_9284.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9284.jpg,600,450,1.333,RGB,test
+aug_0_7302.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7302.jpg,600,450,1.333,RGB,test
+aug_0_9789.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9789.jpg,600,450,1.333,RGB,test
+aug_0_1176.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1176.jpg,600,450,1.333,RGB,test
+aug_0_4707.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4707.jpg,600,450,1.333,RGB,test
+aug_0_1715.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1715.jpg,600,450,1.333,RGB,test
+aug_0_1544.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1544.jpg,294,222,1.324,RGB,test
+aug_0_4727.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4727.jpg,600,450,1.333,RGB,test
+aug_0_5754.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5754.jpg,1024,768,1.333,RGB,test
+aug_0_4298.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4298.jpg,600,450,1.333,RGB,test
+aug_0_5798.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5798.jpg,294,222,1.324,RGB,test
+aug_0_7892.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7892.jpg,600,450,1.333,RGB,test
+aug_0_9588.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9588.jpg,1024,764,1.34,RGB,test
+aug_0_9896.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9896.jpg,600,450,1.333,RGB,test
+aug_0_3326.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3326.jpg,600,450,1.333,RGB,test
+aug_0_760.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_760.jpg,615,578,1.064,RGB,test
+aug_0_4845.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4845.jpg,1024,682,1.501,RGB,test
+aug_0_8945.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8945.jpg,600,450,1.333,RGB,test
+aug_0_4300.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4300.jpg,788,502,1.57,RGB,test
+aug_0_5580.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5580.jpg,600,450,1.333,RGB,test
+aug_0_8368.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8368.jpg,600,450,1.333,RGB,test
+aug_0_7161.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7161.jpg,1024,682,1.501,RGB,test
+aug_0_5950.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5950.jpg,600,450,1.333,RGB,test
+aug_0_4632.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4632.jpg,600,450,1.333,RGB,test
+aug_0_1808.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1808.jpg,600,450,1.333,RGB,test
+aug_0_2736.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2736.jpg,600,450,1.333,RGB,test
+aug_0_1442.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1442.jpg,600,450,1.333,RGB,test
+aug_0_6079.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6079.jpg,1024,768,1.333,RGB,test
+aug_0_434.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_434.jpg,767,576,1.332,RGB,test
+aug_0_6756.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6756.jpg,422,428,0.986,RGB,test
+aug_0_3579.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3579.jpg,964,720,1.339,RGB,test
+aug_0_7769.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7769.jpg,1024,684,1.497,RGB,test
+aug_0_6414.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6414.jpg,600,450,1.333,RGB,test
+aug_0_8355.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8355.jpg,1024,768,1.333,RGB,test
+aug_0_4939.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4939.jpg,600,450,1.333,RGB,test
+aug_0_8712.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8712.jpg,600,450,1.333,RGB,test
+aug_0_2479.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2479.jpg,294,222,1.324,RGB,test
+aug_0_4185.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4185.jpg,600,450,1.333,RGB,test
+aug_0_1005.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1005.jpg,300,249,1.205,RGB,test
+aug_0_2758.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2758.jpg,600,450,1.333,RGB,test
+aug_0_3498.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3498.jpg,1024,768,1.333,RGB,test
+aug_0_8869.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8869.jpg,1024,764,1.34,RGB,test
+aug_0_4960.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4960.jpg,600,450,1.333,RGB,test
+aug_0_5025.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5025.jpg,1024,768,1.333,RGB,test
+aug_0_3509.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3509.jpg,767,576,1.332,RGB,test
+aug_0_6035.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6035.jpg,600,450,1.333,RGB,test
+aug_0_3332.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3332.jpg,600,450,1.333,RGB,test
+aug_0_5324.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5324.jpg,600,450,1.333,RGB,test
+aug_0_501.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_501.jpg,416,458,0.908,RGB,test
+aug_0_4143.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4143.jpg,294,222,1.324,RGB,test
+aug_0_4161.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4161.jpg,600,450,1.333,RGB,test
+aug_0_5761.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5761.jpg,1024,764,1.34,RGB,test
+aug_0_9815.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9815.jpg,1024,768,1.333,RGB,test
+aug_0_1189.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1189.jpg,600,450,1.333,RGB,test
+aug_0_9571.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9571.jpg,600,450,1.333,RGB,test
+aug_0_6412.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6412.jpg,1024,768,1.333,RGB,test
+aug_0_9455.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9455.jpg,277,293,0.945,RGB,test
+aug_0_4898.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4898.jpg,1024,768,1.333,RGB,test
+aug_0_7915.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7915.jpg,767,576,1.332,RGB,test
+aug_0_3923.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3923.jpg,1024,680,1.506,RGB,test
+aug_0_9618.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9618.jpg,1024,768,1.333,RGB,test
+aug_0_2851.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2851.jpg,1024,768,1.333,RGB,test
+aug_0_8777.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8777.jpg,1024,764,1.34,RGB,test
+aug_0_8737.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8737.jpg,1024,764,1.34,RGB,test
+aug_0_2253.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2253.jpg,300,213,1.408,RGB,test
+aug_0_4222.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4222.jpg,1024,683,1.499,RGB,test
+aug_0_4084.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4084.jpg,1024,768,1.333,RGB,test
+aug_0_2669.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2669.jpg,600,450,1.333,RGB,test
+aug_0_4095.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4095.jpg,294,222,1.324,RGB,test
+aug_0_5962.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5962.jpg,600,450,1.333,RGB,test
+aug_0_4463.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4463.jpg,600,450,1.333,RGB,test
+aug_0_1180.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1180.jpg,600,450,1.333,RGB,test
+aug_0_2778.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2778.jpg,962,722,1.332,RGB,test
+aug_0_7248.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7248.jpg,1024,768,1.333,RGB,test
+aug_0_9223.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9223.jpg,600,450,1.333,RGB,test
+aug_0_875.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_875.jpg,600,450,1.333,RGB,test
+aug_0_1740.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1740.jpg,962,674,1.427,RGB,test
+aug_0_4519.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4519.jpg,1024,764,1.34,RGB,test
+aug_0_2737.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2737.jpg,1024,768,1.333,RGB,test
+aug_0_6179.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6179.jpg,919,802,1.146,RGB,test
+aug_0_8730.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8730.jpg,294,222,1.324,RGB,test
+aug_0_9799.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9799.jpg,294,222,1.324,RGB,test
+aug_0_7336.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7336.jpg,1024,764,1.34,RGB,test
+aug_0_6719.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6719.jpg,1024,768,1.333,RGB,test
+aug_0_2490.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2490.jpg,277,293,0.945,RGB,test
+aug_0_365.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_365.jpg,962,722,1.332,RGB,test
+aug_0_7652.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7652.jpg,1024,768,1.333,RGB,test
+aug_0_422.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_422.jpg,1024,768,1.333,RGB,test
+aug_0_785.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_785.jpg,600,450,1.333,RGB,test
+aug_0_9129.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9129.jpg,1024,764,1.34,RGB,test
+aug_0_24.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_24.jpg,224,357,0.627,RGB,test
+aug_0_4251.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4251.jpg,1083,1280,0.846,RGB,test
+aug_0_4614.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4614.jpg,600,450,1.333,RGB,test
+aug_0_2197.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2197.jpg,454,562,0.808,RGB,test
+aug_0_7503.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7503.jpg,294,222,1.324,RGB,test
+aug_0_77.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_77.jpg,294,222,1.324,RGB,test
+aug_0_6727.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6727.jpg,1024,764,1.34,RGB,test
+aug_0_5462.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5462.jpg,600,450,1.333,RGB,test
+aug_0_6460.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6460.jpg,294,222,1.324,RGB,test
+aug_0_174.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_174.jpg,600,450,1.333,RGB,test
+aug_0_6906.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6906.jpg,600,450,1.333,RGB,test
+aug_0_7989.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7989.jpg,1024,768,1.333,RGB,test
+aug_0_6096.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6096.jpg,767,576,1.332,RGB,test
+aug_0_4687.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4687.jpg,600,450,1.333,RGB,test
+aug_0_871.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_871.jpg,266,190,1.4,RGB,test
+aug_0_2113.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2113.jpg,600,450,1.333,RGB,test
+aug_0_6772.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6772.jpg,1024,768,1.333,RGB,test
+aug_0_763.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_763.jpg,600,450,1.333,RGB,test
+aug_0_6360.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6360.jpg,600,450,1.333,RGB,test
+aug_0_9669.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9669.jpg,294,222,1.324,RGB,test
+aug_0_9668.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9668.jpg,600,450,1.333,RGB,test
+aug_0_3.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3.jpg,1024,764,1.34,RGB,test
+aug_0_3344.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3344.jpg,962,722,1.332,RGB,test
+aug_0_5769.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5769.jpg,600,450,1.333,RGB,test
+aug_0_1703.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1703.jpg,600,450,1.333,RGB,test
+aug_0_8473.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8473.jpg,266,190,1.4,RGB,test
+aug_0_1734.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1734.jpg,600,450,1.333,RGB,test
+aug_0_3721.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3721.jpg,1024,768,1.333,RGB,test
+aug_0_9672.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9672.jpg,297,185,1.605,RGB,test
+aug_0_5735.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5735.jpg,1024,768,1.333,RGB,test
+aug_0_8504.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8504.jpg,270,210,1.286,RGB,test
+aug_0_3885.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3885.jpg,1022,767,1.332,RGB,test
+aug_0_2667.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2667.jpg,600,450,1.333,RGB,test
+aug_0_7950.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7950.jpg,1024,768,1.333,RGB,test
+aug_0_1213.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1213.jpg,600,450,1.333,RGB,test
+aug_0_2701.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2701.jpg,600,450,1.333,RGB,test
+aug_0_3869.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3869.jpg,1024,682,1.501,RGB,test
+aug_0_2182.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2182.jpg,1024,768,1.333,RGB,test
+aug_0_3535.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3535.jpg,1024,878,1.166,RGB,test
+aug_0_8371.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8371.jpg,600,450,1.333,RGB,test
+aug_0_8347.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8347.jpg,1024,768,1.333,RGB,test
+aug_0_8450.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8450.jpg,600,450,1.333,RGB,test
+aug_0_1236.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1236.jpg,1024,768,1.333,RGB,test
+aug_0_7106.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7106.jpg,1024,764,1.34,RGB,test
+aug_0_8535.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8535.jpg,600,450,1.333,RGB,test
+aug_0_8016.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8016.jpg,294,222,1.324,RGB,test
+aug_0_9428.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9428.jpg,600,450,1.333,RGB,test
+aug_0_3975.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3975.jpg,604,434,1.392,RGB,test
+aug_0_5797.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5797.jpg,600,450,1.333,RGB,test
+aug_0_6693.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6693.jpg,270,210,1.286,RGB,test
+aug_0_4909.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4909.jpg,1024,768,1.333,RGB,test
+aug_0_3222.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3222.jpg,604,434,1.392,RGB,test
+aug_0_7604.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7604.jpg,294,222,1.324,RGB,test
+aug_0_1190.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1190.jpg,600,450,1.333,RGB,test
+aug_0_2245.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2245.jpg,1024,768,1.333,RGB,test
+aug_0_6869.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6869.jpg,1024,768,1.333,RGB,test
+aug_0_9071.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9071.jpg,600,450,1.333,RGB,test
+aug_0_7799.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7799.jpg,1024,764,1.34,RGB,test
+aug_0_4847.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4847.jpg,600,450,1.333,RGB,test
+aug_0_1284.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1284.jpg,1024,768,1.333,RGB,test
+aug_0_6161.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6161.jpg,600,450,1.333,RGB,test
+aug_0_2743.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2743.jpg,600,450,1.333,RGB,test
+aug_0_1349.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1349.jpg,1022,767,1.332,RGB,test
+aug_0_2276.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2276.jpg,600,450,1.333,RGB,test
+aug_0_6234.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6234.jpg,1024,768,1.333,RGB,test
+aug_0_7973.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7973.jpg,600,450,1.333,RGB,test
+aug_0_1548.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1548.jpg,600,450,1.333,RGB,test
+aug_0_2585.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2585.jpg,600,450,1.333,RGB,test
+aug_0_2389.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2389.jpg,600,450,1.333,RGB,test
+aug_0_8017.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8017.jpg,1024,764,1.34,RGB,test
+aug_0_5107.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5107.jpg,1024,768,1.333,RGB,test
+aug_0_1110.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1110.jpg,521,445,1.171,RGB,test
+aug_0_6624.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6624.jpg,600,450,1.333,RGB,test
+aug_0_4748.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4748.jpg,600,450,1.333,RGB,test
+aug_0_2201.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2201.jpg,600,450,1.333,RGB,test
+aug_0_7103.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7103.jpg,1024,764,1.34,RGB,test
+aug_0_8068.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8068.jpg,600,450,1.333,RGB,test
+aug_0_4543.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4543.jpg,224,357,0.627,RGB,test
+aug_0_681.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_681.jpg,600,450,1.333,RGB,test
+aug_0_2812.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2812.jpg,716,452,1.584,RGB,test
+aug_0_6054.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6054.jpg,600,450,1.333,RGB,test
+aug_0_4257.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4257.jpg,600,450,1.333,RGB,test
+aug_0_1428.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1428.jpg,1024,768,1.333,RGB,test
+aug_0_2841.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2841.jpg,600,450,1.333,RGB,test
+aug_0_5671.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5671.jpg,294,222,1.324,RGB,test
+aug_0_7866.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7866.jpg,1024,768,1.333,RGB,test
+aug_0_6210.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6210.jpg,600,450,1.333,RGB,test
+aug_0_3036.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3036.jpg,600,450,1.333,RGB,test
+aug_0_4120.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4120.jpg,600,450,1.333,RGB,test
+aug_0_9600.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9600.jpg,600,450,1.333,RGB,test
+aug_0_516.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_516.jpg,1024,684,1.497,RGB,test
+aug_0_8597.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8597.jpg,1024,679,1.508,RGB,test
+aug_0_78.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_78.jpg,1024,768,1.333,RGB,test
+aug_0_729.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_729.jpg,600,450,1.333,RGB,test
+aug_0_833.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_833.jpg,512,341,1.501,RGB,test
+aug_0_2887.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2887.jpg,600,450,1.333,RGB,test
+aug_0_5846.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5846.jpg,600,450,1.333,RGB,test
+aug_0_3717.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3717.jpg,600,450,1.333,RGB,test
+aug_0_3117.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3117.jpg,600,450,1.333,RGB,test
+aug_0_5935.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5935.jpg,600,450,1.333,RGB,test
+aug_0_2497.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2497.jpg,1024,764,1.34,RGB,test
+aug_0_9879.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9879.jpg,600,450,1.333,RGB,test
+aug_0_7851.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7851.jpg,600,450,1.333,RGB,test
+aug_0_2578.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2578.jpg,234,271,0.863,RGB,test
+aug_0_1490.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1490.jpg,600,450,1.333,RGB,test
+aug_0_1020.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1020.jpg,600,450,1.333,RGB,test
+aug_0_605.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_605.jpg,364,261,1.395,RGB,test
+aug_0_4452.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4452.jpg,600,450,1.333,RGB,test
+aug_0_8543.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8543.jpg,1024,768,1.333,RGB,test
+aug_0_5912.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5912.jpg,600,450,1.333,RGB,test
+aug_0_8819.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8819.jpg,600,450,1.333,RGB,test
+aug_0_68.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_68.jpg,600,450,1.333,RGB,test
+aug_0_4929.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4929.jpg,600,450,1.333,RGB,test
+aug_0_6433.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6433.jpg,294,222,1.324,RGB,test
+aug_0_6952.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6952.jpg,600,450,1.333,RGB,test
+aug_0_6932.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6932.jpg,600,450,1.333,RGB,test
+aug_0_4746.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4746.jpg,1024,682,1.501,RGB,test
+aug_0_2151.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2151.jpg,600,450,1.333,RGB,test
+aug_0_7663.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7663.jpg,600,450,1.333,RGB,test
+aug_0_535.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_535.jpg,294,222,1.324,RGB,test
+aug_0_356.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_356.jpg,294,222,1.324,RGB,test
+aug_0_5043.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5043.jpg,1024,768,1.333,RGB,test
+aug_0_676.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_676.jpg,1024,764,1.34,RGB,test
+aug_0_2250.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2250.jpg,1024,768,1.333,RGB,test
+aug_0_1359.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1359.jpg,962,722,1.332,RGB,test
+aug_0_2686.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2686.jpg,294,222,1.324,RGB,test
+aug_0_7049.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7049.jpg,1024,768,1.333,RGB,test
+aug_0_6301.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6301.jpg,1024,681,1.504,RGB,test
+aug_0_8873.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8873.jpg,1024,768,1.333,RGB,test
+aug_0_2542.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2542.jpg,294,222,1.324,RGB,test
+aug_0_7750.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7750.jpg,600,450,1.333,RGB,test
+aug_0_4677.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4677.jpg,600,450,1.333,RGB,test
+aug_0_3159.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3159.jpg,600,450,1.333,RGB,test
+aug_0_5875.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5875.jpg,294,222,1.324,RGB,test
+aug_0_4326.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4326.jpg,600,450,1.333,RGB,test
+aug_0_5092.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5092.jpg,1024,768,1.333,RGB,test
+aug_0_7060.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7060.jpg,600,450,1.333,RGB,test
+aug_0_5271.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5271.jpg,294,222,1.324,RGB,test
+aug_0_2557.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2557.jpg,1024,768,1.333,RGB,test
+aug_0_7067.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7067.jpg,600,450,1.333,RGB,test
+aug_0_7749.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7749.jpg,600,450,1.333,RGB,test
+aug_0_5416.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5416.jpg,600,450,1.333,RGB,test
+aug_0_9984.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9984.jpg,600,450,1.333,RGB,test
+aug_0_5251.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5251.jpg,600,450,1.333,RGB,test
+aug_0_4514.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4514.jpg,600,450,1.333,RGB,test
+aug_0_7137.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7137.jpg,1022,767,1.332,RGB,test
+aug_0_6903.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6903.jpg,294,222,1.324,RGB,test
+aug_0_1493.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1493.jpg,600,450,1.333,RGB,test
+aug_0_748.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_748.jpg,600,450,1.333,RGB,test
+aug_0_6.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6.jpg,1022,767,1.332,RGB,test
+aug_0_4129.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4129.jpg,600,450,1.333,RGB,test
+aug_0_4383.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4383.jpg,600,450,1.333,RGB,test
+aug_0_169.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_169.jpg,600,450,1.333,RGB,test
+aug_0_7392.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7392.jpg,600,450,1.333,RGB,test
+aug_0_5451.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5451.jpg,1024,768,1.333,RGB,test
+aug_0_4116.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4116.jpg,600,450,1.333,RGB,test
+aug_0_2668.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2668.jpg,1024,768,1.333,RGB,test
+aug_0_1089.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1089.jpg,294,222,1.324,RGB,test
+aug_0_2476.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2476.jpg,1024,768,1.333,RGB,test
+aug_0_961.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_961.jpg,294,222,1.324,RGB,test
+aug_0_8708.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8708.jpg,605,554,1.092,RGB,test
+aug_0_4499.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4499.jpg,294,222,1.324,RGB,test
+aug_0_4075.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4075.jpg,600,450,1.333,RGB,test
+aug_0_7770.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7770.jpg,600,450,1.333,RGB,test
+aug_0_8093.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8093.jpg,294,222,1.324,RGB,test
+aug_0_699.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_699.jpg,600,450,1.333,RGB,test
+aug_0_2101.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2101.jpg,600,450,1.333,RGB,test
+aug_0_5323.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5323.jpg,600,450,1.333,RGB,test
+aug_0_964.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_964.jpg,294,222,1.324,RGB,test
+aug_0_152.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_152.jpg,177,189,0.937,RGB,test
+aug_0_5945.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5945.jpg,1024,768,1.333,RGB,test
+aug_0_9351.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9351.jpg,294,222,1.324,RGB,test
+aug_0_1633.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1633.jpg,521,445,1.171,RGB,test
+aug_0_2213.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2213.jpg,600,450,1.333,RGB,test
+aug_0_9502.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9502.jpg,600,450,1.333,RGB,test
+aug_0_6123.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6123.jpg,294,222,1.324,RGB,test
+aug_0_1618.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1618.jpg,600,450,1.333,RGB,test
+aug_0_6990.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6990.jpg,400,432,0.926,RGB,test
+aug_0_2965.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2965.jpg,600,450,1.333,RGB,test
+aug_0_8817.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8817.jpg,738,517,1.427,RGB,test
+aug_0_8113.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8113.jpg,600,450,1.333,RGB,test
+aug_0_9246.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9246.jpg,294,222,1.324,RGB,test
+aug_0_4190.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4190.jpg,1024,764,1.34,RGB,test
+aug_0_5226.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5226.jpg,960,724,1.326,RGB,test
+aug_0_2349.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2349.jpg,600,450,1.333,RGB,test
+aug_0_425.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_425.jpg,1024,764,1.34,RGB,test
+aug_0_1623.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1623.jpg,1022,767,1.332,RGB,test
+aug_0_7912.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7912.jpg,600,450,1.333,RGB,test
+aug_0_2712.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2712.jpg,600,450,1.333,RGB,test
+aug_0_2466.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2466.jpg,600,450,1.333,RGB,test
+aug_0_2126.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2126.jpg,722,545,1.325,RGB,test
+aug_0_8165.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8165.jpg,1024,764,1.34,RGB,test
+aug_0_7384.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7384.jpg,600,450,1.333,RGB,test
+aug_0_7835.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7835.jpg,600,450,1.333,RGB,test
+aug_0_8680.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8680.jpg,738,517,1.427,RGB,test
+aug_0_1086.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1086.jpg,294,222,1.324,RGB,test
+aug_0_6832.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6832.jpg,600,450,1.333,RGB,test
+aug_0_8542.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8542.jpg,600,450,1.333,RGB,test
+aug_0_8106.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8106.jpg,521,445,1.171,RGB,test
+aug_0_9722.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9722.jpg,1024,768,1.333,RGB,test
+aug_0_6480.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6480.jpg,600,450,1.333,RGB,test
+aug_0_8500.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8500.jpg,600,450,1.333,RGB,test
+aug_0_3088.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3088.jpg,1024,768,1.333,RGB,test
+aug_0_2186.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2186.jpg,229,262,0.874,RGB,test
+aug_0_1045.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1045.jpg,600,450,1.333,RGB,test
+aug_0_9872.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9872.jpg,600,450,1.333,RGB,test
+aug_0_2242.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2242.jpg,600,450,1.333,RGB,test
+aug_0_9017.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9017.jpg,600,450,1.333,RGB,test
+aug_0_2246.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2246.jpg,1024,764,1.34,RGB,test
+aug_0_7738.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7738.jpg,600,450,1.333,RGB,test
+aug_0_2368.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2368.jpg,300,213,1.408,RGB,test
+aug_0_1693.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1693.jpg,294,222,1.324,RGB,test
+aug_0_505.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_505.jpg,1024,764,1.34,RGB,test
+aug_0_9034.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9034.jpg,1022,767,1.332,RGB,test
+aug_0_3949.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3949.jpg,600,450,1.333,RGB,test
+aug_0_3111.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3111.jpg,600,450,1.333,RGB,test
+aug_0_6067.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6067.jpg,1024,764,1.34,RGB,test
+aug_0_3370.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3370.jpg,1024,768,1.333,RGB,test
+aug_0_2950.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2950.jpg,600,450,1.333,RGB,test
+aug_0_2656.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2656.jpg,600,450,1.333,RGB,test
+aug_0_6547.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6547.jpg,604,434,1.392,RGB,test
+aug_0_9339.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9339.jpg,294,222,1.324,RGB,test
+aug_0_8725.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8725.jpg,600,450,1.333,RGB,test
+aug_0_9454.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9454.jpg,600,450,1.333,RGB,test
+aug_0_4641.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4641.jpg,615,578,1.064,RGB,test
+aug_0_4136.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4136.jpg,1024,680,1.506,RGB,test
+aug_0_6279.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6279.jpg,600,450,1.333,RGB,test
+aug_0_5153.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5153.jpg,600,450,1.333,RGB,test
+aug_0_8198.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8198.jpg,1024,764,1.34,RGB,test
+aug_0_5346.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5346.jpg,600,450,1.333,RGB,test
+aug_0_9854.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9854.jpg,600,450,1.333,RGB,test
+aug_0_1533.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1533.jpg,600,450,1.333,RGB,test
+aug_0_1086.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1086.jpg,600,450,1.333,RGB,test
+aug_0_9118.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9118.jpg,1024,768,1.333,RGB,test
+aug_0_2941.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2941.jpg,600,450,1.333,RGB,test
+aug_0_6652.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6652.jpg,1024,768,1.333,RGB,test
+aug_0_6372.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6372.jpg,294,222,1.324,RGB,test
+aug_0_6573.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6573.jpg,1024,768,1.333,RGB,test
+aug_0_1024.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1024.jpg,1024,768,1.333,RGB,test
+aug_0_6868.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6868.jpg,965,649,1.487,RGB,test
+aug_0_1688.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1688.jpg,600,450,1.333,RGB,test
+aug_0_3097.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3097.jpg,1024,764,1.34,RGB,test
+aug_0_5782.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5782.jpg,1024,764,1.34,RGB,test
+aug_0_2277.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2277.jpg,600,450,1.333,RGB,test
+aug_0_4731.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4731.jpg,600,450,1.333,RGB,test
+aug_0_5315.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5315.jpg,600,450,1.333,RGB,test
+aug_0_7800.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7800.jpg,1024,768,1.333,RGB,test
+aug_0_5768.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5768.jpg,600,450,1.333,RGB,test
+aug_0_7147.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7147.jpg,1026,770,1.332,RGB,test
+aug_0_1677.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1677.jpg,1024,764,1.34,RGB,test
+aug_0_7901.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7901.jpg,294,222,1.324,RGB,test
+aug_0_2754.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2754.jpg,600,450,1.333,RGB,test
+aug_0_6966.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6966.jpg,1024,764,1.34,RGB,test
+aug_0_1951.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1951.jpg,600,450,1.333,RGB,test
+aug_0_8087.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8087.jpg,600,450,1.333,RGB,test
+aug_0_6992.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6992.jpg,1024,764,1.34,RGB,test
+aug_0_3957.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3957.jpg,600,450,1.333,RGB,test
+aug_0_2311.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2311.jpg,1024,768,1.333,RGB,test
+aug_0_5390.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5390.jpg,600,450,1.333,RGB,test
+aug_0_6841.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6841.jpg,600,450,1.333,RGB,test
+aug_0_7000.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7000.jpg,600,450,1.333,RGB,test
+aug_0_5224.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5224.jpg,1024,764,1.34,RGB,test
+aug_0_2041.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2041.jpg,1024,764,1.34,RGB,test
+aug_0_3994.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3994.jpg,600,450,1.333,RGB,test
+aug_0_3560.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3560.jpg,454,562,0.808,RGB,test
+aug_0_9864.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9864.jpg,1024,764,1.34,RGB,test
+aug_0_6408.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6408.jpg,722,542,1.332,RGB,test
+aug_0_2256.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2256.jpg,600,450,1.333,RGB,test
+aug_0_5749.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5749.jpg,600,450,1.333,RGB,test
+aug_0_9022.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9022.jpg,208,222,0.937,RGB,test
+aug_0_2206.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2206.jpg,1024,768,1.333,RGB,test
+aug_0_9689.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9689.jpg,294,222,1.324,RGB,test
+aug_0_464.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_464.jpg,300,300,1.0,RGB,test
+aug_0_5228.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5228.jpg,600,450,1.333,RGB,test
+aug_0_2820.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2820.jpg,1024,764,1.34,RGB,test
+aug_0_6022.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6022.jpg,1024,768,1.333,RGB,test
+aug_0_77.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_77.jpg,1024,768,1.333,RGB,test
+aug_0_8078.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8078.jpg,1024,878,1.166,RGB,test
+aug_0_1817.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1817.jpg,277,293,0.945,RGB,test
+aug_0_801.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_801.jpg,1024,768,1.333,RGB,test
+aug_0_9202.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9202.jpg,600,450,1.333,RGB,test
+aug_0_6929.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6929.jpg,294,222,1.324,RGB,test
+aug_0_2944.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2944.jpg,722,545,1.325,RGB,test
+aug_0_9718.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9718.jpg,600,450,1.333,RGB,test
+aug_0_4339.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4339.jpg,915,985,0.929,RGB,test
+aug_0_7902.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7902.jpg,600,450,1.333,RGB,test
+aug_0_8719.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8719.jpg,600,450,1.333,RGB,test
+aug_0_5859.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5859.jpg,600,450,1.333,RGB,test
+aug_0_41.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_41.jpg,294,222,1.324,RGB,test
+aug_0_3226.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3226.jpg,1024,764,1.34,RGB,test
+aug_0_1316.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1316.jpg,1024,768,1.333,RGB,test
+aug_0_1041.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1041.jpg,1024,764,1.34,RGB,test
+aug_0_2491.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2491.jpg,600,450,1.333,RGB,test
+aug_0_3939.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3939.jpg,1024,768,1.333,RGB,test
+aug_0_3548.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3548.jpg,1024,768,1.333,RGB,test
+aug_0_5033.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5033.jpg,600,450,1.333,RGB,test
+aug_0_7383.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7383.jpg,600,450,1.333,RGB,test
+aug_0_7555.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7555.jpg,364,261,1.395,RGB,test
+aug_0_8101.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8101.jpg,1024,680,1.506,RGB,test
+aug_0_5113.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5113.jpg,1024,764,1.34,RGB,test
+aug_0_3897.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3897.jpg,600,450,1.333,RGB,test
+aug_0_9981.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9981.jpg,1024,764,1.34,RGB,test
+aug_0_6428.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6428.jpg,600,450,1.333,RGB,test
+aug_0_705.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_705.jpg,600,450,1.333,RGB,test
+aug_0_4827.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4827.jpg,600,450,1.333,RGB,test
+aug_0_5645.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5645.jpg,600,399,1.504,RGB,test
+aug_0_1173.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1173.jpg,600,450,1.333,RGB,test
+aug_0_4235.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4235.jpg,600,450,1.333,RGB,test
+aug_0_3231.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3231.jpg,600,450,1.333,RGB,test
+aug_0_9835.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9835.jpg,600,450,1.333,RGB,test
+aug_0_9896.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9896.jpg,294,222,1.324,RGB,test
+aug_0_6604.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6604.jpg,600,450,1.333,RGB,test
+aug_0_8003.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8003.jpg,600,450,1.333,RGB,test
+aug_0_5635.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5635.jpg,600,450,1.333,RGB,test
+aug_0_2308.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2308.jpg,294,222,1.324,RGB,test
+aug_0_6743.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6743.jpg,600,450,1.333,RGB,test
+aug_0_5698.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5698.jpg,600,450,1.333,RGB,test
+aug_0_7574.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7574.jpg,1024,685,1.495,RGB,test
+aug_0_9339.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9339.jpg,600,450,1.333,RGB,test
+aug_0_3167.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3167.jpg,600,450,1.333,RGB,test
+aug_0_8525.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8525.jpg,294,222,1.324,RGB,test
+aug_0_7839.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7839.jpg,600,450,1.333,RGB,test
+aug_0_4477.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4477.jpg,1024,764,1.34,RGB,test
+aug_0_9151.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9151.jpg,600,450,1.333,RGB,test
+aug_0_3270.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3270.jpg,600,450,1.333,RGB,test
+aug_0_2224.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2224.jpg,600,450,1.333,RGB,test
+aug_0_6582.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6582.jpg,294,222,1.324,RGB,test
+aug_0_2319.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2319.jpg,234,271,0.863,RGB,test
+aug_0_5107.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5107.jpg,1024,768,1.333,RGB,test
+aug_0_5758.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5758.jpg,600,450,1.333,RGB,test
+aug_0_5837.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5837.jpg,600,450,1.333,RGB,test
+aug_0_8388.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8388.jpg,722,545,1.325,RGB,test
+aug_0_9038.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9038.jpg,600,450,1.333,RGB,test
+aug_0_860.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_860.jpg,1024,764,1.34,RGB,test
+aug_0_7209.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7209.jpg,600,450,1.333,RGB,test
+aug_0_2774.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2774.jpg,1024,768,1.333,RGB,test
+aug_0_8264.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8264.jpg,600,450,1.333,RGB,test
+aug_0_8522.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8522.jpg,962,674,1.427,RGB,test
+aug_0_4724.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4724.jpg,1024,764,1.34,RGB,test
+aug_0_1825.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1825.jpg,600,450,1.333,RGB,test
+aug_0_4621.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4621.jpg,600,450,1.333,RGB,test
+aug_0_8925.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8925.jpg,1024,764,1.34,RGB,test
+aug_0_3006.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3006.jpg,1024,680,1.506,RGB,test
+aug_0_4376.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4376.jpg,600,450,1.333,RGB,test
+aug_0_3182.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3182.jpg,600,450,1.333,RGB,test
+aug_0_3642.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3642.jpg,600,450,1.333,RGB,test
+aug_0_178.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_178.jpg,1024,768,1.333,RGB,test
+aug_0_9020.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9020.jpg,600,450,1.333,RGB,test
+aug_0_7114.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7114.jpg,767,576,1.332,RGB,test
+aug_0_2559.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2559.jpg,1024,769,1.332,RGB,test
+aug_0_7062.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7062.jpg,1024,764,1.34,RGB,test
+aug_0_4326.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4326.jpg,600,450,1.333,RGB,test
+aug_0_1670.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1670.jpg,1024,768,1.333,RGB,test
+aug_0_7601.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7601.jpg,270,210,1.286,RGB,test
+aug_0_6056.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6056.jpg,600,450,1.333,RGB,test
+aug_0_1704.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1704.jpg,294,222,1.324,RGB,test
+aug_0_8559.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8559.jpg,1024,768,1.333,RGB,test
+aug_0_5295.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5295.jpg,1024,682,1.501,RGB,test
+aug_0_1615.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1615.jpg,600,450,1.333,RGB,test
+aug_0_1096.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1096.jpg,600,450,1.333,RGB,test
+aug_0_3121.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3121.jpg,294,222,1.324,RGB,test
+aug_0_9837.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9837.jpg,1024,680,1.506,RGB,test
+aug_0_6123.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6123.jpg,1024,878,1.166,RGB,test
+aug_0_5509.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5509.jpg,1024,768,1.333,RGB,test
+aug_0_7331.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7331.jpg,1024,768,1.333,RGB,test
+aug_0_3783.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3783.jpg,600,450,1.333,RGB,test
+aug_0_3676.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3676.jpg,294,222,1.324,RGB,test
+aug_0_1866.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1866.jpg,1024,764,1.34,RGB,test
+aug_0_5195.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5195.jpg,919,802,1.146,RGB,test
+aug_0_2589.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2589.jpg,294,222,1.324,RGB,test
+aug_0_3982.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3982.jpg,915,985,0.929,RGB,test
+aug_0_1325.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1325.jpg,358,434,0.825,RGB,test
+aug_0_5162.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5162.jpg,294,222,1.324,RGB,test
+aug_0_2076.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2076.jpg,600,450,1.333,RGB,test
+aug_0_8118.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8118.jpg,1024,768,1.333,RGB,test
+aug_0_7000.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7000.jpg,600,450,1.333,RGB,test
+aug_0_9964.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9964.jpg,490,527,0.93,RGB,test
+aug_0_2029.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2029.jpg,1024,768,1.333,RGB,test
+aug_0_1259.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1259.jpg,300,249,1.205,RGB,test
+aug_0_7723.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7723.jpg,600,450,1.333,RGB,test
+aug_0_2737.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2737.jpg,600,450,1.333,RGB,test
+aug_0_3809.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3809.jpg,1024,768,1.333,RGB,test
+aug_0_8044.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8044.jpg,294,222,1.324,RGB,test
+aug_0_3038.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3038.jpg,600,450,1.333,RGB,test
+aug_0_2195.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2195.jpg,600,450,1.333,RGB,test
+aug_0_6502.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6502.jpg,600,450,1.333,RGB,test
+aug_0_9965.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9965.jpg,600,450,1.333,RGB,test
+aug_0_6581.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6581.jpg,1024,768,1.333,RGB,test
+aug_0_9070.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9070.jpg,600,450,1.333,RGB,test
+aug_0_1884.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1884.jpg,294,222,1.324,RGB,test
+aug_0_6128.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6128.jpg,600,450,1.333,RGB,test
+aug_0_542.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_542.jpg,600,450,1.333,RGB,test
+aug_0_152.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_152.jpg,1024,768,1.333,RGB,test
+aug_0_9245.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9245.jpg,294,222,1.324,RGB,test
+aug_0_6111.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6111.jpg,1083,1280,0.846,RGB,test
+aug_0_6137.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6137.jpg,1024,764,1.34,RGB,test
+aug_0_8507.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8507.jpg,1024,764,1.34,RGB,test
+aug_0_8945.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8945.jpg,1024,768,1.333,RGB,test
+aug_0_2288.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2288.jpg,600,450,1.333,RGB,test
+aug_0_887.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_887.jpg,1024,764,1.34,RGB,test
+aug_0_8002.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8002.jpg,1024,861,1.189,RGB,test
+aug_0_4728.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4728.jpg,722,545,1.325,RGB,test
+aug_0_303.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_303.jpg,1024,764,1.34,RGB,test
+aug_0_2900.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2900.jpg,600,450,1.333,RGB,test
+aug_0_4444.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4444.jpg,600,450,1.333,RGB,test
+aug_0_2873.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2873.jpg,600,450,1.333,RGB,test
+aug_0_2351.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2351.jpg,294,222,1.324,RGB,test
+aug_0_6934.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6934.jpg,600,450,1.333,RGB,test
+aug_0_3698.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3698.jpg,1024,764,1.34,RGB,test
+aug_0_6960.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6960.jpg,294,222,1.324,RGB,test
+aug_0_9752.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9752.jpg,600,450,1.333,RGB,test
+aug_0_6922.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6922.jpg,600,450,1.333,RGB,test
+aug_0_1717.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1717.jpg,600,450,1.333,RGB,test
+aug_0_8843.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8843.jpg,600,450,1.333,RGB,test
+aug_0_716.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_716.jpg,1024,768,1.333,RGB,test
+aug_0_1061.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1061.jpg,1024,768,1.333,RGB,test
+aug_0_3738.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3738.jpg,716,452,1.584,RGB,test
+aug_0_2680.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2680.jpg,600,450,1.333,RGB,test
+aug_0_7237.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7237.jpg,600,450,1.333,RGB,test
+aug_0_6862.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6862.jpg,1024,768,1.333,RGB,test
+aug_0_914.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_914.jpg,600,450,1.333,RGB,test
+aug_0_4289.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4289.jpg,600,450,1.333,RGB,test
+aug_0_3096.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3096.jpg,1022,767,1.332,RGB,test
+aug_0_2847.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2847.jpg,1024,768,1.333,RGB,test
+aug_0_7720.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7720.jpg,157,119,1.319,RGB,test
+aug_0_8541.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8541.jpg,600,450,1.333,RGB,test
+aug_0_2174.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2174.jpg,294,222,1.324,RGB,test
+aug_0_4060.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4060.jpg,600,450,1.333,RGB,test
+aug_0_4257.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4257.jpg,1024,764,1.34,RGB,test
+aug_0_3825.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3825.jpg,294,222,1.324,RGB,test
+aug_0_2297.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2297.jpg,600,450,1.333,RGB,test
+aug_0_7957.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7957.jpg,600,450,1.333,RGB,test
+aug_0_8446.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8446.jpg,600,450,1.333,RGB,test
+aug_0_5223.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5223.jpg,1024,768,1.333,RGB,test
+aug_0_718.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_718.jpg,177,189,0.937,RGB,test
+aug_0_8164.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8164.jpg,600,450,1.333,RGB,test
+aug_0_8083.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8083.jpg,600,450,1.333,RGB,test
+aug_0_597.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_597.jpg,294,222,1.324,RGB,test
+aug_0_7226.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7226.jpg,600,450,1.333,RGB,test
+aug_0_6574.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6574.jpg,600,450,1.333,RGB,test
+aug_0_6336.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6336.jpg,1024,764,1.34,RGB,test
+aug_0_2794.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2794.jpg,600,450,1.333,RGB,test
+aug_0_5185.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5185.jpg,600,450,1.333,RGB,test
+aug_0_7571.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7571.jpg,1022,767,1.332,RGB,test
+aug_0_9909.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9909.jpg,1024,685,1.495,RGB,test
+aug_0_7185.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7185.jpg,224,357,0.627,RGB,test
+aug_0_4839.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4839.jpg,1024,768,1.333,RGB,test
+aug_0_5184.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5184.jpg,750,589,1.273,RGB,test
+aug_0_3919.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3919.jpg,600,399,1.504,RGB,test
+aug_0_4634.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4634.jpg,600,450,1.333,RGB,test
+aug_0_4525.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4525.jpg,788,502,1.57,RGB,test
+aug_0_756.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_756.jpg,600,450,1.333,RGB,test
+aug_0_1378.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1378.jpg,300,300,1.0,RGB,test
+aug_0_2043.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2043.jpg,767,576,1.332,RGB,test
+aug_0_7135.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7135.jpg,600,450,1.333,RGB,test
+aug_0_7930.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7930.jpg,1024,686,1.493,RGB,test
+aug_0_8504.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8504.jpg,1024,878,1.166,RGB,test
+aug_0_1076.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1076.jpg,1024,679,1.508,RGB,test
+aug_0_5814.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5814.jpg,287,357,0.804,RGB,test
+aug_0_3990.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3990.jpg,1024,683,1.499,RGB,test
+aug_0_3842.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3842.jpg,1024,686,1.493,RGB,test
+aug_0_9542.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9542.jpg,600,450,1.333,RGB,test
+aug_0_1352.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1352.jpg,600,450,1.333,RGB,test
+aug_0_1722.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1722.jpg,1024,768,1.333,RGB,test
+aug_0_1907.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1907.jpg,1022,767,1.332,RGB,test
+aug_0_1114.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1114.jpg,294,222,1.324,RGB,test
+aug_0_9467.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9467.jpg,1024,768,1.333,RGB,test
+aug_0_7409.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7409.jpg,1024,768,1.333,RGB,test
+aug_0_7406.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7406.jpg,1024,768,1.333,RGB,test
+aug_0_7066.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7066.jpg,767,576,1.332,RGB,test
+aug_0_9518.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9518.jpg,1024,768,1.333,RGB,test
+aug_0_6726.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6726.jpg,1024,764,1.34,RGB,test
+aug_0_5332.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5332.jpg,294,222,1.324,RGB,test
+aug_0_8188.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8188.jpg,294,222,1.324,RGB,test
+aug_0_4054.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4054.jpg,600,450,1.333,RGB,test
+aug_0_8834.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8834.jpg,600,450,1.333,RGB,test
+aug_0_40.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_40.jpg,1024,768,1.333,RGB,test
+aug_0_815.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_815.jpg,600,450,1.333,RGB,test
+aug_0_8859.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8859.jpg,294,222,1.324,RGB,test
+aug_0_321.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_321.jpg,600,450,1.333,RGB,test
+aug_0_9138.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9138.jpg,741,494,1.5,RGB,test
+aug_0_9559.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9559.jpg,600,450,1.333,RGB,test
+aug_0_6227.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6227.jpg,600,450,1.333,RGB,test
+aug_0_720.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_720.jpg,294,222,1.324,RGB,test
+aug_0_5843.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5843.jpg,600,450,1.333,RGB,test
+aug_0_8566.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8566.jpg,600,450,1.333,RGB,test
+aug_0_2504.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2504.jpg,600,450,1.333,RGB,test
+aug_0_9547.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9547.jpg,294,222,1.324,RGB,test
+aug_0_751.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_751.jpg,294,222,1.324,RGB,test
+aug_0_6089.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6089.jpg,1024,768,1.333,RGB,test
+aug_0_8704.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8704.jpg,600,450,1.333,RGB,test
+aug_0_2248.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2248.jpg,294,222,1.324,RGB,test
+aug_0_5239.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5239.jpg,919,802,1.146,RGB,test
+aug_0_1046.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1046.jpg,294,222,1.324,RGB,test
+aug_0_9862.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9862.jpg,600,450,1.333,RGB,test
+aug_0_6921.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6921.jpg,600,450,1.333,RGB,test
+aug_0_3541.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3541.jpg,600,450,1.333,RGB,test
+aug_0_3218.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3218.jpg,600,450,1.333,RGB,test
+aug_0_5904.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5904.jpg,600,450,1.333,RGB,test
+aug_0_7497.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7497.jpg,600,450,1.333,RGB,test
+aug_0_5030.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5030.jpg,963,629,1.531,RGB,test
+aug_0_9702.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9702.jpg,600,450,1.333,RGB,test
+aug_0_1965.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1965.jpg,600,450,1.333,RGB,test
+aug_0_9778.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9778.jpg,962,722,1.332,RGB,test
+aug_0_270.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_270.jpg,600,450,1.333,RGB,test
+aug_0_5876.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5876.jpg,600,450,1.333,RGB,test
+aug_0_1861.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1861.jpg,1024,764,1.34,RGB,test
+aug_0_824.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_824.jpg,600,450,1.333,RGB,test
+aug_0_6151.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6151.jpg,600,450,1.333,RGB,test
+aug_0_7860.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7860.jpg,1022,767,1.332,RGB,test
+aug_0_6271.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6271.jpg,1022,767,1.332,RGB,test
+aug_0_8016.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8016.jpg,1024,768,1.333,RGB,test
+aug_0_9011.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9011.jpg,600,450,1.333,RGB,test
+aug_0_9992.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9992.jpg,600,450,1.333,RGB,test
+aug_0_1607.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1607.jpg,600,450,1.333,RGB,test
+aug_0_615.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_615.jpg,294,222,1.324,RGB,test
+aug_0_9752.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9752.jpg,716,452,1.584,RGB,test
+aug_0_2382.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2382.jpg,1024,768,1.333,RGB,test
+aug_0_8685.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8685.jpg,287,357,0.804,RGB,test
+aug_0_8926.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8926.jpg,600,450,1.333,RGB,test
+aug_0_8336.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8336.jpg,1024,682,1.501,RGB,test
+aug_0_9841.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9841.jpg,1024,768,1.333,RGB,test
+aug_0_2124.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2124.jpg,600,450,1.333,RGB,test
+aug_0_3036.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3036.jpg,1024,768,1.333,RGB,test
+aug_0_9295.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9295.jpg,294,222,1.324,RGB,test
+aug_0_4841.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4841.jpg,1024,764,1.34,RGB,test
+aug_0_4663.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4663.jpg,600,450,1.333,RGB,test
+aug_0_4628.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4628.jpg,1024,764,1.34,RGB,test
+aug_0_9871.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9871.jpg,1024,764,1.34,RGB,test
+aug_0_3853.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3853.jpg,1024,768,1.333,RGB,test
+aug_0_2913.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2913.jpg,600,450,1.333,RGB,test
+aug_0_143.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_143.jpg,1024,768,1.333,RGB,test
+aug_0_9951.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9951.jpg,1024,680,1.506,RGB,test
+aug_0_6592.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6592.jpg,1024,764,1.34,RGB,test
+aug_0_1740.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1740.jpg,600,450,1.333,RGB,test
+aug_0_8706.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8706.jpg,294,222,1.324,RGB,test
+aug_0_1309.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1309.jpg,1024,768,1.333,RGB,test
+aug_0_4024.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4024.jpg,512,341,1.501,RGB,test
+aug_0_311.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_311.jpg,600,450,1.333,RGB,test
+aug_0_5677.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5677.jpg,600,450,1.333,RGB,test
+aug_0_7249.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7249.jpg,1024,768,1.333,RGB,test
+aug_0_8014.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8014.jpg,1024,768,1.333,RGB,test
+aug_0_3576.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3576.jpg,600,450,1.333,RGB,test
+aug_0_7725.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7725.jpg,294,222,1.324,RGB,test
+aug_0_1983.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1983.jpg,600,450,1.333,RGB,test
+aug_0_5945.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5945.jpg,294,222,1.324,RGB,test
+aug_0_6738.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6738.jpg,294,222,1.324,RGB,test
+aug_0_6716.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6716.jpg,294,222,1.324,RGB,test
+aug_0_4724.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4724.jpg,600,450,1.333,RGB,test
+aug_0_2969.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2969.jpg,600,450,1.333,RGB,test
+aug_0_3653.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3653.jpg,600,450,1.333,RGB,test
+aug_0_501.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_501.jpg,722,540,1.337,RGB,test
+aug_0_6664.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6664.jpg,1024,768,1.333,RGB,test
+aug_0_4890.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4890.jpg,294,222,1.324,RGB,test
+aug_0_2173.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2173.jpg,600,450,1.333,RGB,test
+aug_0_6982.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6982.jpg,600,450,1.333,RGB,test
+aug_0_7088.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7088.jpg,600,450,1.333,RGB,test
+aug_0_5650.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5650.jpg,1024,768,1.333,RGB,test
+aug_0_3876.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3876.jpg,294,222,1.324,RGB,test
+aug_0_3394.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3394.jpg,600,450,1.333,RGB,test
+aug_0_8890.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8890.jpg,600,450,1.333,RGB,test
+aug_0_3190.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3190.jpg,600,450,1.333,RGB,test
+aug_0_5820.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5820.jpg,1024,768,1.333,RGB,test
+aug_0_8101.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8101.jpg,600,450,1.333,RGB,test
+aug_0_5679.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5679.jpg,600,450,1.333,RGB,test
+aug_0_6098.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6098.jpg,1024,764,1.34,RGB,test
+aug_0_1691.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1691.jpg,615,578,1.064,RGB,test
+aug_0_5925.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5925.jpg,600,450,1.333,RGB,test
+aug_0_7535.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7535.jpg,600,450,1.333,RGB,test
+aug_0_8355.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8355.jpg,1024,764,1.34,RGB,test
+aug_0_9867.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9867.jpg,738,517,1.427,RGB,test
+aug_0_5820.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5820.jpg,600,450,1.333,RGB,test
+aug_0_5598.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5598.jpg,750,589,1.273,RGB,test
+aug_0_4491.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4491.jpg,600,450,1.333,RGB,test
+aug_0_2098.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2098.jpg,1024,680,1.506,RGB,test
+aug_0_9768.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9768.jpg,1024,768,1.333,RGB,test
+aug_0_9877.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9877.jpg,600,450,1.333,RGB,test
+aug_0_5027.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5027.jpg,874,678,1.289,RGB,test
+aug_0_8182.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8182.jpg,600,450,1.333,RGB,test
+aug_0_5993.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5993.jpg,600,450,1.333,RGB,test
+aug_0_6576.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6576.jpg,600,450,1.333,RGB,test
+aug_0_7018.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7018.jpg,600,450,1.333,RGB,test
+aug_0_8305.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8305.jpg,600,450,1.333,RGB,test
+aug_0_3581.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3581.jpg,600,450,1.333,RGB,test
+aug_0_1045.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1045.jpg,1024,764,1.34,RGB,test
+aug_0_4341.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4341.jpg,600,450,1.333,RGB,test
+aug_0_4440.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4440.jpg,600,450,1.333,RGB,test
+aug_0_8296.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8296.jpg,767,576,1.332,RGB,test
+aug_0_336.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_336.jpg,1024,861,1.189,RGB,test
+aug_0_7368.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7368.jpg,1024,768,1.333,RGB,test
+aug_0_9097.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9097.jpg,600,450,1.333,RGB,test
+aug_0_4041.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4041.jpg,600,450,1.333,RGB,test
+aug_0_9991.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9991.jpg,600,450,1.333,RGB,test
+aug_0_7785.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7785.jpg,600,450,1.333,RGB,test
+aug_0_7506.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7506.jpg,600,450,1.333,RGB,test
+aug_0_8059.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8059.jpg,600,450,1.333,RGB,test
+aug_0_1978.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1978.jpg,294,222,1.324,RGB,test
+aug_0_7713.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7713.jpg,294,222,1.324,RGB,test
+aug_0_3916.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3916.jpg,600,450,1.333,RGB,test
+aug_0_972.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_972.jpg,1024,768,1.333,RGB,test
+aug_0_8844.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8844.jpg,1024,764,1.34,RGB,test
+aug_0_6119.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6119.jpg,1024,768,1.333,RGB,test
+aug_0_9068.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9068.jpg,294,222,1.324,RGB,test
+aug_0_4670.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4670.jpg,1024,768,1.333,RGB,test
+aug_0_1792.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1792.jpg,1024,686,1.493,RGB,test
+aug_0_6887.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6887.jpg,600,450,1.333,RGB,test
+aug_0_4619.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4619.jpg,600,450,1.333,RGB,test
+aug_0_7995.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7995.jpg,600,450,1.333,RGB,test
+aug_0_9600.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9600.jpg,600,450,1.333,RGB,test
+aug_0_9376.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9376.jpg,600,450,1.333,RGB,test
+aug_0_5604.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5604.jpg,600,450,1.333,RGB,test
+aug_0_9188.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9188.jpg,1024,768,1.333,RGB,test
+aug_0_1893.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1893.jpg,1024,768,1.333,RGB,test
+aug_0_1100.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1100.jpg,1024,768,1.333,RGB,test
+aug_0_8641.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8641.jpg,294,222,1.324,RGB,test
+aug_0_2945.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2945.jpg,294,222,1.324,RGB,test
+aug_0_7091.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7091.jpg,1024,764,1.34,RGB,test
+aug_0_2944.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2944.jpg,1024,768,1.333,RGB,test
+aug_0_3725.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3725.jpg,1024,768,1.333,RGB,test
+aug_0_4144.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4144.jpg,1024,764,1.34,RGB,test
+aug_0_5158.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5158.jpg,600,450,1.333,RGB,test
+aug_0_4892.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4892.jpg,600,450,1.333,RGB,test
+aug_0_7297.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7297.jpg,600,450,1.333,RGB,test
+aug_0_6069.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6069.jpg,600,450,1.333,RGB,test
+aug_0_350.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_350.jpg,294,222,1.324,RGB,test
+aug_0_8370.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8370.jpg,1022,767,1.332,RGB,test
+aug_0_3291.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3291.jpg,1024,764,1.34,RGB,test
+aug_0_2610.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2610.jpg,1024,768,1.333,RGB,test
+aug_0_6170.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6170.jpg,600,450,1.333,RGB,test
+aug_0_840.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_840.jpg,364,261,1.395,RGB,test
+aug_0_5858.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5858.jpg,1024,768,1.333,RGB,test
+aug_0_9014.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9014.jpg,1022,767,1.332,RGB,test
+aug_0_4817.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4817.jpg,1024,768,1.333,RGB,test
+aug_0_8869.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8869.jpg,600,450,1.333,RGB,test
+aug_0_3831.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3831.jpg,600,450,1.333,RGB,test
+aug_0_9268.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9268.jpg,600,450,1.333,RGB,test
+aug_0_9709.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9709.jpg,600,450,1.333,RGB,test
+aug_0_9314.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9314.jpg,600,450,1.333,RGB,test
+aug_0_8272.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8272.jpg,294,222,1.324,RGB,test
+aug_0_6209.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6209.jpg,294,222,1.324,RGB,test
+aug_0_4900.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4900.jpg,294,222,1.324,RGB,test
+aug_0_1695.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1695.jpg,1024,768,1.333,RGB,test
+aug_0_9350.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9350.jpg,767,576,1.332,RGB,test
+aug_0_3015.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3015.jpg,600,450,1.333,RGB,test
+aug_0_1404.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1404.jpg,1024,861,1.189,RGB,test
+aug_0_2872.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2872.jpg,1024,681,1.504,RGB,test
+aug_0_2102.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2102.jpg,600,399,1.504,RGB,test
+aug_0_4680.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4680.jpg,294,222,1.324,RGB,test
+aug_0_6395.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6395.jpg,1024,764,1.34,RGB,test
+aug_0_4833.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4833.jpg,294,222,1.324,RGB,test
+aug_0_6103.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6103.jpg,1024,768,1.333,RGB,test
+aug_0_2300.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2300.jpg,600,450,1.333,RGB,test
+aug_0_4095.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4095.jpg,600,450,1.333,RGB,test
+aug_0_8996.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8996.jpg,294,222,1.324,RGB,test
+aug_0_7037.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7037.jpg,1024,768,1.333,RGB,test
+aug_0_5634.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5634.jpg,1024,764,1.34,RGB,test
+aug_0_2245.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2245.jpg,600,450,1.333,RGB,test
+aug_0_8979.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8979.jpg,1024,682,1.501,RGB,test
+aug_0_1194.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1194.jpg,294,222,1.324,RGB,test
+aug_0_8934.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8934.jpg,962,722,1.332,RGB,test
+aug_0_5411.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5411.jpg,600,450,1.333,RGB,test
+aug_0_1579.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1579.jpg,962,674,1.427,RGB,test
+aug_0_1067.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1067.jpg,600,450,1.333,RGB,test
+aug_0_8239.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8239.jpg,600,450,1.333,RGB,test
+aug_0_4373.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4373.jpg,1024,683,1.499,RGB,test
+aug_0_1847.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1847.jpg,600,450,1.333,RGB,test
+aug_0_5101.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5101.jpg,1024,768,1.333,RGB,test
+aug_0_3969.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3969.jpg,600,450,1.333,RGB,test
+aug_0_9677.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9677.jpg,1022,767,1.332,RGB,test
+aug_0_782.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_782.jpg,600,450,1.333,RGB,test
+aug_0_3485.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3485.jpg,1024,768,1.333,RGB,test
+aug_0_4137.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4137.jpg,1024,769,1.332,RGB,test
+aug_0_5667.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5667.jpg,600,450,1.333,RGB,test
+aug_0_2124.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2124.jpg,600,450,1.333,RGB,test
+aug_0_2426.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2426.jpg,600,450,1.333,RGB,test
+aug_0_2391.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2391.jpg,600,450,1.333,RGB,test
+aug_0_3334.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3334.jpg,1024,768,1.333,RGB,test
+aug_0_1439.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1439.jpg,294,222,1.324,RGB,test
+aug_0_1516.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1516.jpg,294,222,1.324,RGB,test
+aug_0_8275.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8275.jpg,294,222,1.324,RGB,test
+aug_0_2443.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2443.jpg,600,450,1.333,RGB,test
+aug_0_4596.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4596.jpg,615,578,1.064,RGB,test
+aug_0_2021.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2021.jpg,600,450,1.333,RGB,test
+aug_0_783.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_783.jpg,1024,768,1.333,RGB,test
+aug_0_1123.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1123.jpg,600,450,1.333,RGB,test
+aug_0_3394.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3394.jpg,600,450,1.333,RGB,test
+aug_0_3461.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3461.jpg,294,222,1.324,RGB,test
+aug_0_5126.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5126.jpg,1024,764,1.34,RGB,test
+aug_0_6356.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6356.jpg,600,450,1.333,RGB,test
+aug_0_6651.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6651.jpg,1024,764,1.34,RGB,test
+aug_0_2116.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2116.jpg,600,450,1.333,RGB,test
+aug_0_8500.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8500.jpg,600,450,1.333,RGB,test
+aug_0_4429.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4429.jpg,600,450,1.333,RGB,test
+aug_0_323.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_323.jpg,1024,768,1.333,RGB,test
+aug_0_8413.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8413.jpg,600,450,1.333,RGB,test
+aug_0_8886.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8886.jpg,500,368,1.359,RGB,test
+aug_0_6464.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6464.jpg,600,450,1.333,RGB,test
+aug_0_2548.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2548.jpg,600,450,1.333,RGB,test
+aug_0_1332.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1332.jpg,600,450,1.333,RGB,test
+aug_0_1165.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1165.jpg,600,450,1.333,RGB,test
+aug_0_203.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_203.jpg,600,450,1.333,RGB,test
+aug_0_1285.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1285.jpg,600,450,1.333,RGB,test
+aug_0_4495.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4495.jpg,600,450,1.333,RGB,test
+aug_0_3071.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3071.jpg,600,450,1.333,RGB,test
+aug_0_9037.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9037.jpg,600,450,1.333,RGB,test
+aug_0_8088.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8088.jpg,600,450,1.333,RGB,test
+aug_0_592.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_592.jpg,1024,768,1.333,RGB,test
+aug_0_9428.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9428.jpg,600,450,1.333,RGB,test
+aug_0_7906.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7906.jpg,1024,768,1.333,RGB,test
+aug_0_7123.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7123.jpg,294,222,1.324,RGB,test
+aug_0_6764.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6764.jpg,600,450,1.333,RGB,test
+aug_0_541.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_541.jpg,1024,764,1.34,RGB,test
+aug_0_9789.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9789.jpg,600,450,1.333,RGB,test
+aug_0_5141.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5141.jpg,294,222,1.324,RGB,test
+aug_0_5873.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5873.jpg,600,450,1.333,RGB,test
+aug_0_938.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_938.jpg,600,450,1.333,RGB,test
+aug_0_3724.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3724.jpg,600,450,1.333,RGB,test
+aug_0_713.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_713.jpg,1024,768,1.333,RGB,test
+aug_0_693.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_693.jpg,600,450,1.333,RGB,test
+aug_0_9177.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9177.jpg,767,576,1.332,RGB,test
+aug_0_5693.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5693.jpg,1024,768,1.333,RGB,test
+aug_0_3619.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3619.jpg,1024,768,1.333,RGB,test
+aug_0_3764.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3764.jpg,600,450,1.333,RGB,test
+aug_0_9770.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9770.jpg,600,450,1.333,RGB,test
+aug_0_7364.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7364.jpg,1024,768,1.333,RGB,test
+aug_0_6909.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6909.jpg,600,450,1.333,RGB,test
+aug_0_2655.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2655.jpg,1024,681,1.504,RGB,test
+aug_0_5746.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5746.jpg,600,450,1.333,RGB,test
+aug_0_7598.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7598.jpg,600,450,1.333,RGB,test
+aug_0_586.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_586.jpg,1024,764,1.34,RGB,test
+aug_0_2866.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2866.jpg,600,450,1.333,RGB,test
+aug_0_7929.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7929.jpg,1024,768,1.333,RGB,test
+aug_0_7845.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7845.jpg,600,399,1.504,RGB,test
+aug_0_1315.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1315.jpg,454,562,0.808,RGB,test
+aug_0_8536.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8536.jpg,1024,764,1.34,RGB,test
+aug_0_6646.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6646.jpg,294,222,1.324,RGB,test
+aug_0_3714.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3714.jpg,600,450,1.333,RGB,test
+aug_0_1302.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1302.jpg,965,724,1.333,RGB,test
+aug_0_1491.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1491.jpg,600,450,1.333,RGB,test
+aug_0_610.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_610.jpg,600,450,1.333,RGB,test
+aug_0_2465.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2465.jpg,600,450,1.333,RGB,test
+aug_0_3910.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3910.jpg,1024,764,1.34,RGB,test
+aug_0_9014.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9014.jpg,294,222,1.324,RGB,test
+aug_0_369.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_369.jpg,294,222,1.324,RGB,test
+aug_0_3453.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3453.jpg,722,542,1.332,RGB,test
+aug_0_6200.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6200.jpg,600,450,1.333,RGB,test
+aug_0_9863.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9863.jpg,600,450,1.333,RGB,test
+aug_0_6900.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6900.jpg,422,428,0.986,RGB,test
+aug_0_4289.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4289.jpg,600,450,1.333,RGB,test
+aug_0_3496.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3496.jpg,919,802,1.146,RGB,test
+aug_0_4465.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4465.jpg,1024,768,1.333,RGB,test
+aug_0_9487.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9487.jpg,600,450,1.333,RGB,test
+aug_0_1273.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1273.jpg,600,450,1.333,RGB,test
+aug_0_5138.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5138.jpg,959,638,1.503,RGB,test
+aug_0_2656.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2656.jpg,600,450,1.333,RGB,test
+aug_0_5710.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5710.jpg,1024,768,1.333,RGB,test
+aug_0_8205.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8205.jpg,1024,768,1.333,RGB,test
+aug_0_3900.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3900.jpg,600,450,1.333,RGB,test
+aug_0_8431.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8431.jpg,1024,764,1.34,RGB,test
+aug_0_7832.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7832.jpg,600,450,1.333,RGB,test
+aug_0_4434.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4434.jpg,600,450,1.333,RGB,test
+aug_0_1276.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1276.jpg,600,450,1.333,RGB,test
+aug_0_1934.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1934.jpg,964,720,1.339,RGB,test
+aug_0_674.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_674.jpg,767,576,1.332,RGB,test
+aug_0_4044.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4044.jpg,294,222,1.324,RGB,test
+aug_0_8332.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8332.jpg,600,450,1.333,RGB,test
+aug_0_1640.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_1640.jpg,600,450,1.333,RGB,test
+aug_0_9039.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9039.jpg,600,450,1.333,RGB,test
+aug_0_789.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_789.jpg,600,450,1.333,RGB,test
+aug_0_9413.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9413.jpg,965,724,1.333,RGB,test
+aug_0_3213.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3213.jpg,1024,768,1.333,RGB,test
+aug_0_5352.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5352.jpg,1024,768,1.333,RGB,test
+aug_0_5914.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5914.jpg,1024,768,1.333,RGB,test
+aug_0_4422.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4422.jpg,1024,768,1.333,RGB,test
+aug_0_2410.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2410.jpg,600,450,1.333,RGB,test
+aug_0_6182.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6182.jpg,600,450,1.333,RGB,test
+aug_0_924.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_924.jpg,600,450,1.333,RGB,test
+aug_0_7554.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_7554.jpg,177,189,0.937,RGB,test
+aug_0_2857.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_2857.jpg,600,450,1.333,RGB,test
+aug_0_9908.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9908.jpg,600,450,1.333,RGB,test
+aug_0_8025.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8025.jpg,741,494,1.5,RGB,test
+aug_0_3705.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3705.jpg,600,450,1.333,RGB,test
+aug_0_703.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_703.jpg,600,450,1.333,RGB,test
+aug_0_3160.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3160.jpg,606,544,1.114,RGB,test
+aug_0_9526.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9526.jpg,600,399,1.504,RGB,test
+aug_0_4211.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4211.jpg,600,450,1.333,RGB,test
+aug_0_655.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_655.jpg,600,450,1.333,RGB,test
+aug_0_5949.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5949.jpg,1024,764,1.34,RGB,test
+aug_0_3428.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3428.jpg,600,450,1.333,RGB,test
+aug_0_4005.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4005.jpg,1024,764,1.34,RGB,test
+aug_0_2010.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2010.jpg,600,450,1.333,RGB,test
+aug_0_495.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_495.jpg,1024,764,1.34,RGB,test
+aug_0_9616.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9616.jpg,600,450,1.333,RGB,test
+aug_0_3036.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3036.jpg,1024,768,1.333,RGB,test
+aug_0_4996.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4996.jpg,1024,768,1.333,RGB,test
+aug_0_2227.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2227.jpg,1024,764,1.34,RGB,test
+aug_0_2108.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2108.jpg,600,450,1.333,RGB,test
+aug_0_6735.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6735.jpg,294,222,1.324,RGB,test
+aug_0_5668.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5668.jpg,1024,768,1.333,RGB,test
+aug_0_4979.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4979.jpg,600,450,1.333,RGB,test
+aug_0_1831.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1831.jpg,1024,768,1.333,RGB,test
+aug_0_5212.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5212.jpg,1024,768,1.333,RGB,test
+aug_0_238.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_238.jpg,600,450,1.333,RGB,test
+aug_0_953.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_953.jpg,600,450,1.333,RGB,test
+aug_0_8570.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8570.jpg,857,1024,0.837,RGB,test
+aug_0_3068.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3068.jpg,722,540,1.337,RGB,test
+aug_0_2700.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_2700.jpg,600,450,1.333,RGB,test
+aug_0_2276.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2276.jpg,1024,768,1.333,RGB,test
+aug_0_6724.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6724.jpg,294,222,1.324,RGB,test
+aug_0_6433.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_6433.jpg,600,450,1.333,RGB,test
+aug_0_1355.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1355.jpg,1024,764,1.34,RGB,test
+aug_0_3446.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3446.jpg,1024,768,1.333,RGB,test
+aug_0_5424.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5424.jpg,1024,768,1.333,RGB,test
+aug_0_5507.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5507.jpg,600,450,1.333,RGB,test
+aug_0_9193.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9193.jpg,1022,767,1.332,RGB,test
+aug_0_9103.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9103.jpg,294,222,1.324,RGB,test
+aug_0_1405.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1405.jpg,294,222,1.324,RGB,test
+aug_0_9255.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9255.jpg,600,450,1.333,RGB,test
+aug_0_9553.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9553.jpg,600,450,1.333,RGB,test
+aug_0_9296.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9296.jpg,600,450,1.333,RGB,test
+aug_0_2510.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2510.jpg,1024,768,1.333,RGB,test
+aug_0_5930.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5930.jpg,1024,861,1.189,RGB,test
+aug_0_5635.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5635.jpg,297,185,1.605,RGB,test
+aug_0_3808.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3808.jpg,600,450,1.333,RGB,test
+aug_0_4465.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_4465.jpg,1024,768,1.333,RGB,test
+aug_0_4812.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4812.jpg,767,576,1.332,RGB,test
+aug_0_1578.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1578.jpg,600,450,1.333,RGB,test
+aug_0_3485.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3485.jpg,1024,768,1.333,RGB,test
+aug_0_309.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_309.jpg,294,222,1.324,RGB,test
+aug_0_4289.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4289.jpg,600,450,1.333,RGB,test
+aug_0_6020.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6020.jpg,1024,769,1.332,RGB,test
+aug_0_1283.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1283.jpg,600,450,1.333,RGB,test
+aug_0_6741.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6741.jpg,600,450,1.333,RGB,test
+aug_0_2624.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2624.jpg,600,450,1.333,RGB,test
+aug_0_3167.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3167.jpg,600,450,1.333,RGB,test
+aug_0_3971.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3971.jpg,1024,764,1.34,RGB,test
+aug_0_4152.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_4152.jpg,600,450,1.333,RGB,test
+aug_0_2225.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2225.jpg,600,450,1.333,RGB,test
+aug_0_2207.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2207.jpg,294,222,1.324,RGB,test
+aug_0_1115.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1115.jpg,600,450,1.333,RGB,test
+aug_0_5028.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5028.jpg,600,450,1.333,RGB,test
+aug_0_2088.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2088.jpg,1024,768,1.333,RGB,test
+aug_0_6119.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6119.jpg,606,544,1.114,RGB,test
+aug_0_8873.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8873.jpg,600,450,1.333,RGB,test
+aug_0_5987.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5987.jpg,600,450,1.333,RGB,test
+aug_0_6663.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6663.jpg,294,222,1.324,RGB,test
+aug_0_9264.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9264.jpg,722,542,1.332,RGB,test
+aug_0_2634.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_2634.jpg,600,450,1.333,RGB,test
+aug_0_5992.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5992.jpg,919,802,1.146,RGB,test
+aug_0_6520.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6520.jpg,1024,764,1.34,RGB,test
+aug_0_3866.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3866.jpg,600,450,1.333,RGB,test
+aug_0_1808.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1808.jpg,600,450,1.333,RGB,test
+aug_0_6257.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6257.jpg,600,450,1.333,RGB,test
+aug_0_5925.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5925.jpg,1024,764,1.34,RGB,test
+aug_0_8722.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8722.jpg,1024,764,1.34,RGB,test
+aug_0_160.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_160.jpg,1024,768,1.333,RGB,test
+aug_0_5607.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5607.jpg,1024,764,1.34,RGB,test
+aug_0_9355.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9355.jpg,961,649,1.481,RGB,test
+aug_0_3328.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3328.jpg,1024,764,1.34,RGB,test
+aug_0_9024.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_9024.jpg,1024,768,1.333,RGB,test
+aug_0_9604.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9604.jpg,1024,768,1.333,RGB,test
+aug_0_6040.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6040.jpg,1024,768,1.333,RGB,test
+aug_0_5261.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_5261.jpg,294,222,1.324,RGB,test
+aug_0_8753.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8753.jpg,1024,764,1.34,RGB,test
+aug_0_4434.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4434.jpg,1024,768,1.333,RGB,test
+aug_0_9002.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9002.jpg,1024,764,1.34,RGB,test
+aug_0_6778.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6778.jpg,1024,764,1.34,RGB,test
+aug_0_4904.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4904.jpg,600,450,1.333,RGB,test
+aug_0_908.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_908.jpg,1024,680,1.506,RGB,test
+aug_0_5382.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5382.jpg,600,450,1.333,RGB,test
+aug_0_5395.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5395.jpg,1024,768,1.333,RGB,test
+aug_0_5233.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5233.jpg,965,724,1.333,RGB,test
+aug_0_606.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_606.jpg,294,222,1.324,RGB,test
+aug_0_4987.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4987.jpg,72,137,0.526,RGB,test
+aug_0_7154.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7154.jpg,600,450,1.333,RGB,test
+aug_0_899.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_899.jpg,1022,767,1.332,RGB,test
+aug_0_7591.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_7591.jpg,600,450,1.333,RGB,test
+aug_0_5461.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5461.jpg,490,527,0.93,RGB,test
+aug_0_2216.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2216.jpg,294,222,1.324,RGB,test
+aug_0_1738.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_1738.jpg,320,217,1.475,RGB,test
+aug_0_3525.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3525.jpg,234,271,0.863,RGB,test
+aug_0_1109.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_1109.jpg,294,222,1.324,RGB,test
+aug_0_8120.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8120.jpg,600,450,1.333,RGB,test
+aug_0_19.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_19.jpg,600,450,1.333,RGB,test
+aug_0_6228.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_6228.jpg,1024,764,1.34,RGB,test
+aug_0_9370.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9370.jpg,1024,764,1.34,RGB,test
+aug_0_5573.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_5573.jpg,600,450,1.333,RGB,test
+aug_0_3438.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3438.jpg,344,524,0.656,RGB,test
+aug_0_7820.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7820.jpg,1024,768,1.333,RGB,test
+aug_0_8092.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8092.jpg,1024,768,1.333,RGB,test
+aug_0_5842.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5842.jpg,600,450,1.333,RGB,test
+aug_0_5716.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5716.jpg,1024,768,1.333,RGB,test
+aug_0_9105.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9105.jpg,600,450,1.333,RGB,test
+aug_0_9817.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9817.jpg,1024,764,1.34,RGB,test
+aug_0_8640.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_8640.jpg,1022,767,1.332,RGB,test
+aug_0_9861.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_9861.jpg,600,450,1.333,RGB,test
+aug_0_5564.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_5564.jpg,600,450,1.333,RGB,test
+aug_0_7937.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7937.jpg,600,450,1.333,RGB,test
+aug_0_3927.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3927.jpg,1024,768,1.333,RGB,test
+aug_0_3753.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_3753.jpg,1024,683,1.499,RGB,test
+aug_0_7428.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7428.jpg,600,450,1.333,RGB,test
+aug_0_3756.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3756.jpg,294,222,1.324,RGB,test
+aug_0_2749.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2749.jpg,294,222,1.324,RGB,test
+aug_0_2147.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_2147.jpg,1024,768,1.333,RGB,test
+aug_0_1507.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1507.jpg,1024,768,1.333,RGB,test
+aug_0_1574.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1574.jpg,1024,764,1.34,RGB,test
+aug_0_3623.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3623.jpg,600,450,1.333,RGB,test
+aug_0_5320.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5320.jpg,1024,768,1.333,RGB,test
+aug_0_6342.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6342.jpg,1024,768,1.333,RGB,test
+aug_0_1224.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1224.jpg,919,802,1.146,RGB,test
+aug_0_2348.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2348.jpg,1024,768,1.333,RGB,test
+aug_0_5088.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5088.jpg,1024,768,1.333,RGB,test
+aug_0_8979.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8979.jpg,600,450,1.333,RGB,test
+aug_0_3932.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3932.jpg,600,450,1.333,RGB,test
+aug_0_4433.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4433.jpg,1024,768,1.333,RGB,test
+aug_0_8766.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8766.jpg,600,450,1.333,RGB,test
+aug_0_542.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_542.jpg,600,450,1.333,RGB,test
+aug_0_2091.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_2091.jpg,300,249,1.205,RGB,test
+aug_0_5276.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5276.jpg,600,450,1.333,RGB,test
+aug_0_7144.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7144.jpg,294,222,1.324,RGB,test
+aug_0_8227.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8227.jpg,294,222,1.324,RGB,test
+aug_0_7976.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_7976.jpg,1024,764,1.34,RGB,test
+aug_0_992.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_992.jpg,600,450,1.333,RGB,test
+aug_0_3713.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_3713.jpg,600,450,1.333,RGB,test
+aug_0_8744.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_8744.jpg,1022,767,1.332,RGB,test
+aug_0_8165.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8165.jpg,600,450,1.333,RGB,test
+aug_0_9982.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9982.jpg,600,450,1.333,RGB,test
+aug_0_450.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_450.jpg,1024,768,1.333,RGB,test
+aug_0_6263.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_6263.jpg,600,450,1.333,RGB,test
+aug_0_8109.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8109.jpg,1024,684,1.497,RGB,test
+aug_0_4613.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4613.jpg,1024,764,1.34,RGB,test
+aug_0_113.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_113.jpg,605,554,1.092,RGB,test
+aug_0_9770.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_9770.jpg,1024,764,1.34,RGB,test
+aug_0_6705.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6705.jpg,600,450,1.333,RGB,test
+aug_0_9640.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_9640.jpg,600,450,1.333,RGB,test
+aug_0_3926.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_3926.jpg,1083,1280,0.846,RGB,test
+aug_0_4552.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_4552.jpg,1024,764,1.34,RGB,test
+aug_0_3460.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_3460.jpg,294,222,1.324,RGB,test
+aug_0_8913.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_8913.jpg,600,450,1.333,RGB,test
+aug_0_4583.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4583.jpg,600,450,1.333,RGB,test
+aug_0_7553.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7553.jpg,1024,768,1.333,RGB,test
+aug_0_2396.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_2396.jpg,1024,764,1.34,RGB,test
+aug_0_7254.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_7254.jpg,965,624,1.546,RGB,test
+aug_0_8893.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8893.jpg,1026,770,1.332,RGB,test
+aug_0_5206.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_5206.jpg,600,450,1.333,RGB,test
+aug_0_4956.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_4956.jpg,600,450,1.333,RGB,test
+aug_0_5446.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5446.jpg,600,450,1.333,RGB,test
+aug_0_22.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_22.jpg,600,450,1.333,RGB,test
+aug_0_6966.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_6966.jpg,600,450,1.333,RGB,test
+aug_0_7205.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7205.jpg,294,222,1.324,RGB,test
+aug_0_5604.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_5604.jpg,738,517,1.427,RGB,test
+aug_0_3594.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3594.jpg,1024,768,1.333,RGB,test
+aug_0_4175.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4175.jpg,767,576,1.332,RGB,test
+aug_0_992.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_992.jpg,1024,682,1.501,RGB,test
+aug_0_382.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_382.jpg,1024,768,1.333,RGB,test
+aug_0_2542.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2542.jpg,857,1024,0.837,RGB,test
+aug_0_6622.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_6622.jpg,1024,768,1.333,RGB,test
+aug_0_4638.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4638.jpg,964,720,1.339,RGB,test
+aug_0_6365.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6365.jpg,1024,768,1.333,RGB,test
+aug_0_1158.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_1158.jpg,1024,764,1.34,RGB,test
+aug_0_5850.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_5850.jpg,1024,768,1.333,RGB,test
+aug_0_861.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_861.jpg,294,222,1.324,RGB,test
+aug_0_4982.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_4982.jpg,1024,768,1.333,RGB,test
+aug_0_8859.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_8859.jpg,716,452,1.584,RGB,test
+aug_0_8084.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8084.jpg,600,450,1.333,RGB,test
+aug_0_5368.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5368.jpg,600,450,1.333,RGB,test
+aug_0_4252.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_4252.jpg,600,450,1.333,RGB,test
+aug_0_8835.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8835.jpg,600,450,1.333,RGB,test
+aug_0_6309.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_6309.jpg,600,399,1.504,RGB,test
+aug_0_8371.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8371.jpg,1024,764,1.34,RGB,test
+aug_0_4603.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_4603.jpg,600,450,1.333,RGB,test
+aug_0_8733.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_8733.jpg,600,450,1.333,RGB,test
+aug_0_6667.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6667.jpg,1024,768,1.333,RGB,test
+aug_0_1855.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1855.jpg,600,450,1.333,RGB,test
+aug_0_2820.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2820.jpg,294,222,1.324,RGB,test
+aug_0_912.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_912.jpg,294,222,1.324,RGB,test
+aug_0_4049.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_4049.jpg,177,189,0.937,RGB,test
+aug_0_290.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_290.jpg,600,450,1.333,RGB,test
+aug_0_1756.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1756.jpg,600,450,1.333,RGB,test
+aug_0_3127.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_3127.jpg,600,450,1.333,RGB,test
+aug_0_9440.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9440.jpg,1024,768,1.333,RGB,test
+aug_0_7355.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_7355.jpg,294,222,1.324,RGB,test
+aug_0_8370.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8370.jpg,600,450,1.333,RGB,test
+aug_0_3294.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3294.jpg,600,450,1.333,RGB,test
+aug_0_8932.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_8932.jpg,1024,764,1.34,RGB,test
+aug_0_2720.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_2720.jpg,1024,768,1.333,RGB,test
+aug_0_5069.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_5069.jpg,600,450,1.333,RGB,test
+aug_0_9641.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9641.jpg,605,554,1.092,RGB,test
+aug_0_8272.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_8272.jpg,600,450,1.333,RGB,test
+aug_0_1375.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_1375.jpg,1024,768,1.333,RGB,test
+aug_0_9792.jpg,Tinea Ringworm Candidiasis,d:\Skin Disease classification\newtrain\Tinea Ringworm Candidiasis\aug_0_9792.jpg,642,468,1.372,RGB,test
+aug_0_554.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_554.jpg,600,450,1.333,RGB,test
+aug_0_3912.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_3912.jpg,600,450,1.333,RGB,test
+aug_0_6515.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6515.jpg,600,450,1.333,RGB,test
+aug_0_7379.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7379.jpg,600,450,1.333,RGB,test
+aug_0_7566.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_7566.jpg,1024,768,1.333,RGB,test
+aug_0_9185.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_9185.jpg,600,450,1.333,RGB,test
+aug_0_2285.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_2285.jpg,600,450,1.333,RGB,test
+aug_0_3267.jpg,Melanoma,d:\Skin Disease classification\newtrain\Melanoma\aug_0_3267.jpg,1024,768,1.333,RGB,test
+aug_0_7349.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_7349.jpg,600,450,1.333,RGB,test
+aug_0_1015.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1015.jpg,600,450,1.333,RGB,test
+aug_0_4392.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4392.jpg,294,222,1.324,RGB,test
+aug_0_9876.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_9876.jpg,600,450,1.333,RGB,test
+aug_0_8879.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_8879.jpg,294,222,1.324,RGB,test
+aug_0_1140.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_1140.jpg,600,450,1.333,RGB,test
+aug_0_4093.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_4093.jpg,294,222,1.324,RGB,test
+aug_0_3619.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_3619.jpg,600,450,1.333,RGB,test
+aug_0_691.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_691.jpg,294,222,1.324,RGB,test
+aug_0_6661.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_6661.jpg,600,450,1.333,RGB,test
+aug_0_9742.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_9742.jpg,294,222,1.324,RGB,test
+aug_0_1486.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_1486.jpg,1024,768,1.333,RGB,test
+aug_0_8736.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_8736.jpg,600,450,1.333,RGB,test
+aug_0_361.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_361.jpg,600,450,1.333,RGB,test
+aug_0_7023.jpg,Squamous cell carcinoma,d:\Skin Disease classification\newtrain\Squamous cell carcinoma\aug_0_7023.jpg,600,450,1.333,RGB,test
+aug_0_6189.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_6189.jpg,1024,768,1.333,RGB,test
+aug_0_1891.jpg,Actinic keratosis,d:\Skin Disease classification\newtrain\Actinic keratosis\aug_0_1891.jpg,600,450,1.333,RGB,test
+aug_0_5009.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_5009.jpg,1024,768,1.333,RGB,test
+aug_0_1154.jpg,Vascular lesion,d:\Skin Disease classification\newtrain\Vascular lesion\aug_0_1154.jpg,600,450,1.333,RGB,test
+aug_0_2383.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_2383.jpg,294,222,1.324,RGB,test
+aug_0_6323.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_6323.jpg,294,222,1.324,RGB,test
+aug_0_9671.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_9671.jpg,1024,768,1.333,RGB,test
+aug_0_3910.jpg,Melanocytic nevus,d:\Skin Disease classification\newtrain\Melanocytic nevus\aug_0_3910.jpg,1024,768,1.333,RGB,test
+aug_0_52.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_52.jpg,600,450,1.333,RGB,test
+aug_0_7478.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7478.jpg,600,450,1.333,RGB,test
+aug_0_198.jpg,Atopic Dermatitis,d:\Skin Disease classification\newtrain\Atopic Dermatitis\aug_0_198.jpg,294,222,1.324,RGB,test
+aug_0_7846.jpg,Dermatofibroma,d:\Skin Disease classification\newtrain\Dermatofibroma\aug_0_7846.jpg,600,450,1.333,RGB,test
+aug_0_5646.jpg,Benign keratosis,d:\Skin Disease classification\newtrain\Benign keratosis\aug_0_5646.jpg,1024,682,1.501,RGB,test

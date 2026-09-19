@@ -1,0 +1,8 @@
+{
+    "validator_threshold": 0.5,
+    "uncertainty_threshold": 0.65,
+    "calibration_dataset": "val_split.csv",
+    "calibrated_accuracy_above_threshold": 0.9788,
+    "rejection_message_invalid": "Please upload a valid skin lesion image. This image is outside the supported input domain.",
+    "rejection_message_uncertain": "The model cannot make a sufficiently reliable classification for this image."
+}
